@@ -1,7 +1,8 @@
 import React, {useState} from 'react';
 import { Container, Row, Col } from 'reactstrap';
-import { Box, Flex, useColorModeValue, HStack, Stack, Text } from '@chakra-ui/react';
+import { Box, Flex, useColorModeValue, Text, HStack } from '@chakra-ui/react';
 import QuestionList from './QuestionList'
+import QuestionList2 from './QuestionList2'
 
 export default function Faq() {
     const [searchQuery, setSearchQuery] = useState("");
@@ -32,15 +33,22 @@ export default function Faq() {
             </div>
         </Box>
 
-      <Container>
-        <Row className='site-text'>
-            <Col lg={12}>
+        <Container>
+        <HStack>
+        <Row>
+            <Col lg={6}>
                 <QuestionList
                     query={searchQuery}
                 />
             </Col>
+            <Col lg={6}>
+                <QuestionList2
+                    query={searchQuery}
+                />
+            </Col>
         </Row>
-      </Container>
+        </HStack>
+        </Container>
     </section>
   )
 }

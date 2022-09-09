@@ -2,26 +2,28 @@ import Head from 'next/head'
 import { Element, Link } from 'react-scroll'
 import { Col, Divider, Layout, Menu, Row } from 'antd';
 import React from 'react';
-import { Button, Grid, Text } from '@chakra-ui/react';
+import { Button, Grid, Text, Box } from '@chakra-ui/react';
 import Image from 'next/image'
-import Logo from '../../assets/images/logo-white.png';
-import FooterBar from '../Footer/Footer';
+import Logo from '../../assets/images/cfund-text.png';
+// import FooterBar from '../Footer/Footer';
 
 const { Header, Content } = Layout;
 
 export default function Home({children}: any) {
   return (
       <Layout>
-        <Header style={{ position: 'fixed', zIndex: 1, width: '100%' }}>
+        <Header style={{ position: 'fixed', zIndex: 1, width: '100%', backgroundColor: '#011535' }}>
         <Row justify="center">
-          <Col span={4}>
-            <Image src={Logo}/>
+          <Col span={2}>
+            <Box>
+            <Image className='responsive' src={Logo}/>
+            </Box>
           </Col>
-          <Col span={20}>
+          <Col span={22}>
           <Divider orientation='right'>
-            <Menu
-              theme="dark"
-              mode="horizontal">
+            <Box
+              color='#011535'
+              >
               <Link to="section1" smooth={true} style={{ backgroundColor:'transparent', marginRight: '5%' }}>
                 <Text as={'b'} style={{ textAlign:'center', color: 'white' }}>Home</Text>
               </Link>
@@ -37,21 +39,21 @@ export default function Home({children}: any) {
               <Link to="section5" smooth={true} style={{ backgroundColor:'transparent', marginRight: '5%' }}>
                 <Text as={'b'} style={{ textAlign:'center', color: 'white' }}>News</Text>
               </Link>
-              <Link to="section6" smooth={true} style={{ backgroundColor:'transparent', marginRight: '10%'}}>
+              <Link to="section6" smooth={true} style={{ backgroundColor:'transparent', marginRight: '5%'}}>
                 <Text as={'b'} style={{ textAlign:'center', color: 'white' }}>FAQ</Text>
               </Link>
-              <a href='#'>
-              <Grid textAlign={'center'} mr={20} w={70} as={'b'} fontSize={'2x1'} color={'white'} bg={'orange'} p={1} rounded={'10'}>
+              <a href='/download' target='_blank'>
+              <Box textAlign={'center'} mr={10} as={'b'} fontSize={'2x1'} color={'white'} bg={'#FFA520'} p={2} rounded={'10'}>
                 Login
-              </Grid>
+              </Box>
               </a>
-            </Menu>
+            </Box>
             </Divider>
           </Col>
         </Row>
         </Header>
         <Content>{children}</Content>
-          <FooterBar />
+          {/* <FooterBar /> */}
         </Layout>
   )
 }

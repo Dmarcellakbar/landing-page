@@ -1,0 +1,32 @@
+[
+    {
+      "self": [
+        {
+          "href": "https://blog.cfund.me/wp-json/wp/v2/posts/185"
+        }
+      ],
+      "date": "2022-08-08T13:56:49",
+      "id": 185,
+      "rendered": "A Complete Guide On How To Do Research in Crypto!"
+    },
+    {
+      "self": [
+        {
+          "href": "https://blog.cfund.me/wp-json/wp/v2/posts/192"
+        }
+      ],
+      "date": "2022-08-11T17:19:29",
+      "id": 192,
+      "rendered": "Memanfaatkan Bear Market Saat ini Untuk Menjadi INVESTOR Yang Lebih Baik di Bull Run Berikutnya"
+    },
+    {
+      "self": [
+        {
+          "href": "https://blog.cfund.me/wp-json/wp/v2/posts/205"
+        }
+      ],
+      "date": "2022-08-20T15:35:27",
+      "id": 205,
+      "rendered": "Apa itu decentralized science (DeSci)?"
+    }
+  ]

@@ -1,7 +1,7 @@
 import React from 'react';
-import { Container, Row, Col } from 'reactstrap';
-import Image from 'next/image';
-import newstop from '../../../assets/images/news.png';
+// import { Container, Row, Col } from 'reactstrap';
+// import Image from 'next/image';
+// import newstop from '../../../assets/images/news.png';
 import { Box, Flex, useColorModeValue, HStack, Stack, Text, SimpleGrid, Button } from '@chakra-ui/react';
 
 export default function Moreinfo() {
@@ -37,8 +37,8 @@ export default function Moreinfo() {
         </Box>
         <Box py={6}>
             <div style={{ textAlign: 'center'}}>
-                <Button mr={'10'} color={'white'} backgroundColor={'#ffa520'}>Chat with Us</Button>
-                <Button color={'white'} backgroundColor={'#ffa520'}>Send Email</Button>
+                <a href='mailto:cs@cfund.id'><Button mr={'10'} color={'white'} backgroundColor={'#ffa520'}>Chat with Us</Button></a>
+                <a href='mailto:cs@cfund.id' target='_blank'><Button color={'white'} backgroundColor={'#ffa520'}>Send Email</Button></a>
             </div>
         </Box>
     </section>

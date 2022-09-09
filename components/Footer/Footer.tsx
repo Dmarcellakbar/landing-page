@@ -1,7 +1,6 @@
 import {
     Box,
     Container,
-    Link,
     SimpleGrid,
     Stack,
     Text,
@@ -15,6 +14,8 @@ import {
   import Logo from '../../assets/images/logo-white.png'
   import Image from 'next/image';
   import { FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa';
+  import { Element, Link } from 'react-scroll'
+
 
   const ListHeader = ({ children }: { children: ReactNode }) => {
     return (
@@ -73,27 +74,41 @@ import {
             </Stack>
             <Stack align={'flex-start'}>
               <ListHeader>Sitemap</ListHeader>
-              <Link href={'#'}>Performance</Link>
-              <Link href={'#'}>How to</Link>
-              <Link href={'#'}>Terms</Link>
-              <Link href={'#'}>News</Link>
-              <Link href={'#'}>FAQ</Link>
+              <Link to="section1" smooth={true} style={{ backgroundColor:'transparent', marginRight: '5%' }}>
+                <Text as={'b'} style={{ textAlign:'center', color: 'white' }}>Home</Text>
+              </Link>
+              <Link to="section2" smooth={true} style={{ backgroundColor:'transparent', marginRight: '5%' }}>
+                <Text as={'b'} style={{ textAlign:'center', color: 'white' }}>Performance</Text>
+              </Link>
+              <Link to="section3" smooth={true} style={{ backgroundColor:'transparent', marginRight: '5%' }}>
+                <Text as={'b'} style={{ textAlign:'center', color: 'white' }}>How to</Text>
+              </Link>
+              <Link to="section4" smooth={true} style={{ backgroundColor:'transparent', marginRight: '5%' }}>
+                <Text as={'b'} style={{ textAlign:'center', color: 'white' }}>Terms</Text>
+              </Link>
+              <Link to="section5" smooth={true} style={{ backgroundColor:'transparent', marginRight: '5%' }}>
+                <Text as={'b'} style={{ textAlign:'center', color: 'white' }}>News</Text>
+              </Link>
+              <Link to="section6" smooth={true} style={{ backgroundColor:'transparent', marginRight: '5%'}}>
+                <Text as={'b'} style={{ textAlign:'center', color: 'white' }}>FAQ</Text>
+              </Link>
             </Stack>
             <Stack align={'flex-start'}>
               <ListHeader>Disclaimer</ListHeader>
-              <Link href={'#'}>Terms & Conditions</Link>
-              <Link href={'#'}>Privacy Policy</Link>
+              <a href={'https://info.cfund.me/terms-and-conditions/'} target='_blank'>Terms & Conditions</a>
+              <a href={'https://info.cfund.me/terms-and-conditions/'} target='_blank'>Privacy Policy</a>
+              <a href={'https://info.cfund.me/how-to-referrals/'} target='_blank'>How to Referrals</a>
             </Stack>
             <Stack align={'flex-start'}>
               <ListHeader>Follow Us</ListHeader>
               <Stack direction={'row'} spacing={6}>
-                <SocialButton label={'Twitter'} href={'#'}>
+                {/* <SocialButton label={'Twitter'} href={'#'}>
                     <FaTwitter />
                 </SocialButton>
                 <SocialButton label={'YouTube'} href={'#'}>
                     <FaYoutube />
-                </SocialButton>
-                <SocialButton label={'Instagram'} href={'#'}>
+                </SocialButton> */}
+                <SocialButton label={'Instagram'} href={'https://www.instagram.com/cfundasia/'}>
                     <FaInstagram />
                 </SocialButton>
             </Stack>

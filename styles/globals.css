@@ -11,7 +11,7 @@
 }
 
 .site-layout-background2 {
-  background: #011c3f;
+  background: #011535;
   color: #fff;
 }
 
@@ -24,4 +24,9 @@
 .site-text {
   color: #011c3f;
   background-color: #011c3f;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
 }

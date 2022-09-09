@@ -3,22 +3,38 @@ import React from "react";
 import times from "lodash/times";
 import Marquee from "react-fast-marquee";
 import Image from 'next/image';
-import TokoLogo from '../../../assets/images/toko-logo.png';
-import EkuidLogo from '../../../assets/images/logo_ekuid.png';
-import IdrpLogo from '../../../assets/images/logo-idrp.png';
-import SurveinLogo from '../../../assets/images/logo-survein.png';
-import NanoLogo from '../../../assets/images/logo-nano.png';
-import RaizLogo from '../../../assets/images/raiz-colour.svg';
-import OndeLogo from '../../../assets/images/onde-logo.png';
-import JagoLogo from '../../../assets/images/jagoLogo.svg';
-
+// import TokoLogo from '../../../assets/images/toko-logo.png';
+// import EkuidLogo from '../../../assets/images/logo_ekuid.png';
+// import IdrpLogo from '../../../assets/images/logo-idrp.png';
+// import SurveinLogo from '../../../assets/images/logo-survein.png';
+// import NanoLogo from '../../../assets/images/logo-nano.png';
+// import RaizLogo from '../../../assets/images/raiz-colour.svg';
+// import OndeLogo from '../../../assets/images/onde-logo.png';
+// import JagoLogo from '../../../assets/images/jagoLogo.svg';
+import LogoPartner from '../../../assets/images/logo-partner.png'
 
 export default function Running() {
   return (
-    <Box bg='#011535' w='100%' p={0} color='white'>
+    <Box bg='#011C3F' p={0}>
         <Marquee gradient={false} speed={150}>
             <HStack>
-                <Center w='60px' h='70px' bg='transparent' color='white'>
+                <Image
+                    // width={'100%'}
+                    src={LogoPartner}
+                />
+                <Image
+                    // width={'100%'}
+                    src={LogoPartner}
+                />
+                <Image
+                    // width={'100%'}
+                    src={LogoPartner}
+                />
+                <Image
+                    // width={'100%'}
+                    src={LogoPartner}
+                />
+                {/* <Center w='60px' h='70px' bg='transparent' color='white'>
                     <Image
                         width={'100%'}
                         height={'30%'}
@@ -73,7 +89,7 @@ export default function Running() {
                         height={'50%'}
                         src={JagoLogo}
                     />
-                </Center>
+                </Center> */}
             </HStack>
         </Marquee>
     </Box>

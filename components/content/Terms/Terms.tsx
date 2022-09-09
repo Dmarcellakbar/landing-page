@@ -1,15 +1,16 @@
 import React from 'react';
 import { Container, Row, Col } from 'reactstrap';
 import Image from 'next/image';
-import phone from '../../../assets/images/phone-planet.png';
-import { Box, Flex, HStack, Stack, Text, useColorModeValue } from '@chakra-ui/react';
-
+import cycle from '../../../assets/images/cycle-ilustration.png';
+import { Box, Flex, HStack, Stack, Text, useColorModeValue, VStack } from '@chakra-ui/react';
+import bg from '../../../assets/images/bg-fee.png'
 
 export default function Terms() {
     const styling = {
-        backgroundColor: '#011535',
+        backgroundImage: `url('${bg.src}')`,
         width:"100%",
         height:"100%",
+        backgroundSize: 'cover',
     }
   return (
     <section className="section position-relative" style={styling}>
@@ -32,24 +33,24 @@ export default function Terms() {
             }}>
           </Flex>
         </Box>
-      <Container>
-        <Row className="align-items-center">
+      <Container style={{ padding: '8rem 0px' }}>
+        <Row>
           <Col lg={6}>
-            <div className="pr-lg-8">
-              <Text as={'b'} fontSize='4xl' color={'white'}>
+            <VStack marginTop={'15%'}>
+              <Text as={'b'} fontSize='5xl' color={'white'}>
                 Fee Structure & Terms
                 </Text>
-              <Text marginTop={10} marginBottom={10} fontSize='1xl' color={'white'}>
+              <Text marginTop={10} marginBottom={10} fontSize='2xl' color={'white'}>
                 The fee structure for CFUND portfolio management services consists of 2%
                 management fee, which is deducted from the initial investment value, and 20% performance fee deducted from the profit made during the fund
                 management process. In addition, CFund improses a locking period for the investor's fund, starting from quarterly basis.
                 </Text>
-            </div>
+            </VStack>
           </Col>
           <Col lg={6}>
-            <div className="mt-5 mt-lg-0">
-              <Image src={phone} className="img-fluid mx-auto d-block"/>
-            </div>
+            <VStack>
+              <Image src={cycle} className="img-fluid mx-auto d-block"/>
+            </VStack>
           </Col>
         </Row>
       </Container>

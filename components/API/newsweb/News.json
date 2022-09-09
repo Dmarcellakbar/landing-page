@@ -1,0 +1,820 @@
+[
+    {
+      "id": 205,
+      "date": "2022-08-20T15:35:27",
+      "title": {
+        "rendered": "Apa itu decentralized science (DeSci)?"
+      },
+      "content": {
+        "rendered": "\n<p><strong>Decentralized science (DeSci)</strong> adalah gerakan yang bertujuan untuk membangun infrastruktur publik untuk mendanai, membuat, meninjau, mengkredit, menyimpan, dan menyebarluaskan pengetahuan ilmiah secara adil dan merata menggunakan Web3 sebagai fondasinya.</p>\n\n\n\n<p><strong>DeSci</strong> bertujuan untuk menciptakan ekosistem di mana para ilmuwan diberi insentif untuk secara terbuka membagikan penelitian mereka dan menerima penghargaan atas pekerjaan mereka sambil memungkinkan siapa pun untuk mengakses dan berkontribusi pada penelitian dengan akses yang mudah. <strong>DeSci</strong> bekerja dari gagasan bahwa pengetahuan ilmiah harus dapat diakses oleh semua orang dan bahwa proses penelitian ilmiah harus transparan. <strong>DeSci</strong> menciptakan model penelitian ilmiah yang lebih terdesentralisasi dan terdistribusi, membuatnya lebih tahan terhadap sensor dan kontrol oleh otoritas pusat. <strong>DeSci</strong> berharap dapat menciptakan lingkungan di mana ide-ide baru dan  dapat berkembang dengan mendesentralisasi akses ke pendanaan, alat ilmiah, dan saluran komunikasi.</p>\n\n\n\n<p>Ilmu pengetahuan yang terdesentralisasi memungkinkan sumber pendanaan yang lebih beragam, akses data dan metode yang lebih mudah diakses, dan dengan memberikan insentif untuk reproduktifitas.</p>\n\n\n\n<h2>Bagaimana DeSci meningkatkan sains?</h2>\n\n\n\n<p>Berikut daftar lengkap masalah utama dalam sains dan bagaimana <strong>DeSCi</strong> dapat membantu mengatasi masalah ini</p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td class=\"has-text-align-left\" data-align=\"left\"><strong>Decentralized science</strong></td><td><strong>Science traditional</strong></td></tr><tr><td class=\"has-text-align-left\" data-align=\"left\">Penyaluran dana ditentukan oleh masyarakat dengan menggunakan mekanisme seperti donasi atau DAO.</td><td>Kelompok kecil, tertutup, terpusat mengontrol distribusi dana. Terkadang ada kelompok yang berkepentingan</td></tr><tr><td class=\"has-text-align-left\" data-align=\"left\">Anda berkolaborasi dengan rekan-rekan dari seluruh dunia dalam tim yang dinamis.</td><td>Organisasi pendanaan dan institusi membatasi kolaborasi para peneliti.</td></tr><tr><td class=\"has-text-align-left\" data-align=\"left\">Keputusan pendanaan dibuat secara online dan transparan.</td><td>Keputusan pendanaan dibuat dengan waktu penyelesaian yang lama dan transparansi yang terbatas.</td></tr><tr><td class=\"has-text-align-left\" data-align=\"left\">Berbagi layanan laboratorium menjadi lebih mudah dan transparan menggunakan Web3.</td><td>Berbagi sumber daya laboratorium seringkali lambat dan tidak jelas.</td></tr><tr><td class=\"has-text-align-left\" data-align=\"left\">Model baru untuk penerbitan dapat dikembangkan yang menggunakan Web3 untuk kepercayaan, transparansi, dan akses universal.</td><td>Anda mempublikasikan melalui jalur yang sering kali dianggap tidak efisien, bias, dan eksploitatif.</td></tr><tr><td class=\"has-text-align-left\" data-align=\"left\">Anda memiliki kekayaan intelektual yang Anda hasilkan dan mendistribusikannya sesuai dengan ketentuan yang transparan.</td><td>Lembaga asal Anda memiliki kekayaan intelektual yang Anda hasilkan. Akses ke kekayaan intelektual  tidak transparan.</td></tr></tbody></table></figure>\n\n\n\n<h2>Kasus penggunaan DeSci</h2>\n\n\n\n<p>DeSci sedang membangun perangkat ilmiah untuk memasukkan akademisi Web2 ke dunia digital. Di bawah ini adalah contoh kasus penggunaan yang dapat ditawarkan Web3 kepada komunitas ilmiah.</p>\n\n\n\n<h3>Penerbitan</h3>\n\n\n\n<p>Penerbitan sains terkenal bermasalah karena dikelola oleh penerbit yang mengandalkan tenaga kerja &#8220;gratis&#8221; dari para peneliti, ilmuwan, pengulas, dan editor untuk menghasilkan makalah/jurnal, tetapi kemudian membebankan biaya penerbitan yang tinggi. Publik yang biasanya secara tidak langsung membayar karya dan biaya publikasi melalui perpajakan, seringkali tidak dapat mengakses karya yang sama tanpa membayar penerbit lagi. Biaya total untuk penerbitan makalah ilmiah individu seringkali merusak seluruh konsep pengetahuan ilmiah sebagai barang publik sambil menghasilkan keuntungan besar untuk sekelompok kecil penerbit.</p>\n\n\n\n<p>Platform akses terbuka dan gratis ada dalam bentuk server pra-cetak, seperti <a rel=\"noreferrer noopener\" href=\"https://arxiv.org/\" data-type=\"URL\" data-id=\"https://arxiv.org/\" target=\"_blank\">ArXiv</a>. Namun, platform ini tidak memiliki kontrol kualitas, <a rel=\"noreferrer noopener\" href=\"https://csrc.nist.gov/glossary/term/sybil_attack\" data-type=\"URL\" data-id=\"https://csrc.nist.gov/glossary/term/sybil_attack\" target=\"_blank\">mekanisme anti-sybil</a>. SciHub juga membuat makalah yang diterbitkan bebas untuk diakses, tetapi tidak secara hukum, dan hanya setelah penerbit telah mengambil pembayaran mereka dan membungkus karya tersebut dengan undang-undang hak cipta yang ketat. Ini meninggalkan celah kritis untuk makalah dan data sains yang dapat diakses dengan mekanisme legitimasi dan model insentif yang tertanam. Alat untuk membangun sistem seperti itu ada di Web3.</p>\n\n\n\n<h3>Reproduksibilitas dan replikabilitas</h3>\n\n\n\n<p>Reproduksibilitas dan replikasi adalah dasar dari penemuan ilmiah yang berkualitas.</p>\n\n\n\n<ul><li>Hasil yang dapat direproduksi dapat dicapai beberapa kali berturut-turut oleh tim yang sama menggunakan metodologi yang sama.</li><li>Hasil yang dapat direplikasi dapat dicapai oleh kelompok yang berbeda menggunakan pengaturan eksperimental yang sama.</li></ul>\n\n\n\n<p>Web3 baru dapat memastikan bahwa reproduktifitas dan replikabilitas adalah dasar dari penemuan. Kita dapat menenun ilmu pengetahuan berkualitas ke dalam jalinan teknologi akademisi. Web3 menawarkan kemampuan untuk membuat pengesahan untuk setiap komponen analisis: data mentah, mesin komputasi, dan hasil aplikasi. Keindahan sistem konsensus adalah ketika jaringan terpercaya dibuat untuk memelihara komponen-komponen ini, setiap peserta jaringan dapat bertanggung jawab untuk mereproduksi perhitungan dan memvalidasi setiap hasil.</p>\n\n\n\n<h3>Pendanaan</h3>\n\n\n\n<p>Model standar saat ini untuk ilmu pendanaan adalah bahwa individu atau kelompok ilmuwan membuat aplikasi tertulis ke lembaga pendanaan. Sekelompok kecil individu tepercaya menilai aplikasi dan kemudian mewawancarai kandidat sebelum memberikan dana kepada sebagian kecil pelamar. Selain menciptakan kemacetan yang terkadang menyebabkan waktu tunggu bertahun-tahun antara mengajukan dan menerima hibah, model ini dikenal sangat rentan terhadap bias, kepentingan pribadi, dan politik panel peninjau.</p>\n\n\n\n<p>Studi telah menunjukkan bahwa panel peninjau hibah melakukan pekerjaan yang buruk dalam memilih proposal berkualitas tinggi karena proposal yang sama diberikan kepada panel yang berbeda memiliki hasil yang sangat berbeda. Karena pendanaan menjadi semakin langka, dana tersebut terkonsentrasi ke kelompok peneliti senior yang lebih kecil dengan proyek-proyek yang lebih konservatif secara intelektual. Efeknya telah menciptakan lanskap pendanaan yang sangat kompetitif, memperkuat insentif yang merugikan, dan menghambat inovasi.</p>\n\n\n\n<p>Web3 berpotensi merubah model pendanaan yang lama ini dengan bereksperimen dengan model insentif berbeda yang dikembangkan oleh DAO dan Web3 secara luas. Pendanaan barang publik retroaktif, pendanaan kuadrat, tata kelola DAO, dan struktur insentif tokenized adalah beberapa alat Web3 yang dapat merevolusi pendanaan sains.</p>\n\n\n\n<h3>Kepemilikan dan pengembangan kekayaan intelektual</h3>\n\n\n\n<p>Kekayaan intelektual adalah masalah besar dalam ilmu pengetahuan tradisional. Seringkali hasil dari suatu penelitian &#8220;terjebak&#8221;l karena di-klaim oleh lembaga tempat si peneliti berada. Sehingga sulit bagi peneliti untuk meneruskan penelitian atau karyanya di institusi lain yang mungkin memiliki fasilitas yang lebih lengkap atau melengkapi penelitian sebelumnya. Namun, kepemilikan aset digital (seperti data atau artikel ilmiah) adalah sesuatu yang dilakukan Web3 dengan sangat baik menggunakan token non-fungible (NFT).</p>\n\n\n\n<p>Dengan cara yang sama seperti NFT dapat meneruskan pendapatan untuk transaksi di masa mendatang kembali ke pembuat aslinya, Anda dapat membuat rantai atribusi nilai yang transparan untuk memberi penghargaan kepada peneliti, badan pengatur (seperti DAO), atau bahkan subjek yang datanya dikumpulkan.</p>\n\n\n\n<p> Kekayaan intelektual-NFT juga dapat berfungsi sebagai kunci untuk penyimpanan data terdesentralisasi dari eksperimen penelitian yang sedang dilakukan, dan dihubungkan ke finansialisasi NFT dan DeFi (dari fraksinasi hingga kumpulan pinjaman dan penilaian nilai). Ini juga memungkinkan entitas on-chain asli seperti DAO untuk melakukan penelitian langsung on-chain. Munculnya token yang tidak dapat ditransfer juga dapat memainkan peran penting dalam DeSci dengan memungkinkan individu untuk membuktikan pengalaman dan kredensial mereka yang terkait dengan alamat dompet crypto mereka.</p>\n\n\n\n<h3>Penyimpanan data, akses dan arsitektur</h3>\n\n\n\n<p>Data ilmiah dapat dibuat jauh lebih mudah diakses menggunakan pola Web3, dan penyimpanan terdistribusi akan memungkinkan penelitian bertahan dari peristiwa bencana.</p>\n\n\n\n<p>Titik awalnya harus berupa sistem yang dapat diakses oleh identitas terdesentralisasi yang memegang kredensial yang dapat diverifikasi dengan benar. Hal ini memungkinkan data sensitif direplikasi secara aman oleh pihak tepercaya, memungkinkan redundansi dan ketahanan sensor, reproduksi hasil, dan bahkan kemampuan banyak pihak untuk berkolaborasi dan menambahkan data baru ke kumpulan data. Metode komputasi rahasia seperti komputasi kedata menyediakan mekanisme akses alternatif untuk replikasi data mentah, menciptakan Lingkungan Penelitian Tepercaya untuk data yang paling sensitif. Lingkungan Penelitian Tepercaya telah dikutip oleh NHS sebagai solusi masa depan untuk privasi data dan kolaborasi dengan menciptakan ekosistem tempat peneliti dapat bekerja dengan aman dengan data di tempat menggunakan lingkungan standar untuk berbagi kode dan praktik.</p>\n\n\n\n<p>Solusi data Web3 yang fleksibel mendukung skenario di atas dan memberikan dasar untuk Ilmu Pengetahuan Terbuka yang sesungguhnya, di mana peneliti dapat membuat barang publik tanpa izin akses atau biaya. Solusi data publik Web3 seperti IPFS, Arweave, dan Filecoin dioptimalkan untuk desentralisasi. dClimate, misalnya, menyediakan akses universal ke data iklim dan cuaca, termasuk dari stasiun cuaca dan model iklim prediktif.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Decentralized science (DeSci) adalah gerakan yang bertujuan untuk membangun infrastruktur publik untuk mendanai, membuat, meninjau, mengkredit, menyimpan, dan menyebarluaskan pengetahuan ilmiah secara adil dan merata menggunakan Web3 sebagai fondasinya. DeSci bertujuan untuk menciptakan ekosistem di mana para ilmuwan diberi insentif untuk secara terbuka membagikan penelitian mereka dan menerima penghargaan atas pekerjaan mereka sambil memungkinkan siapa [&hellip;]</p>\n",
+        "protected": false
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://blog.cfund.me/wp-json/wp/v2/posts/205"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://blog.cfund.me/wp-json/wp/v2/posts"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://blog.cfund.me/wp-json/wp/v2/types/post"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/users/3"
+          }
+        ],
+        "replies": [
+          {
+            "embeddable": true,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/comments?post=205"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 10,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/posts/205/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 222,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/posts/205/revisions/222"
+          }
+        ],
+        "wp:featuredmedia": [
+          {
+            "embeddable": true,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/media/207"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://blog.cfund.me/wp-json/wp/v2/media?parent=205"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/categories?post=205"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/tags?post=205"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      },
+      "_embedded": {
+        "author": [
+          {
+            "id": 3,
+            "name": "Choirib Mahendra",
+            "url": "",
+            "description": "",
+            "link": "https://blog.cfund.me/author/hendra/",
+            "slug": "hendra",
+            "avatar_urls": {
+              "24": "https://secure.gravatar.com/avatar/3dffac5d015b347a2ed1037ebd74c77d?s=24&d=mm&r=g",
+              "48": "https://secure.gravatar.com/avatar/3dffac5d015b347a2ed1037ebd74c77d?s=48&d=mm&r=g",
+              "96": "https://secure.gravatar.com/avatar/3dffac5d015b347a2ed1037ebd74c77d?s=96&d=mm&r=g"
+            },
+            "_links": {
+              "self": [
+                {
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/users/3"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/users"
+                }
+              ]
+            }
+          }
+        ],
+        "wp:featuredmedia": [
+          {
+            "id": 207,
+            "date": "2022-08-17T03:19:05",
+            "slug": "decentralized-science-desci",
+            "type": "attachment",
+            "link": "https://blog.cfund.me/apa-itu-decentralized-science-desci/decentralized-science-desci/",
+            "title": {
+              "rendered": "Decentralized Science (DeSci)"
+            },
+            "author": 3,
+            "caption": {
+              "rendered": ""
+            },
+            "alt_text": "",
+            "media_type": "image",
+            "mime_type": "image/png",
+            "media_details": {
+              "width": 1200,
+              "height": 600,
+              "file": "2022/08/Decentralized-Science-DeSci.png",
+              "sizes": {
+                "medium": {
+                  "file": "Decentralized-Science-DeSci-300x150.png",
+                  "width": 300,
+                  "height": 150,
+                  "mime_type": "image/png",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Decentralized-Science-DeSci-300x150.png"
+                },
+                "large": {
+                  "file": "Decentralized-Science-DeSci-1024x512.png",
+                  "width": 1024,
+                  "height": 512,
+                  "mime_type": "image/png",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Decentralized-Science-DeSci-1024x512.png"
+                },
+                "thumbnail": {
+                  "file": "Decentralized-Science-DeSci-150x150.png",
+                  "width": 150,
+                  "height": 150,
+                  "mime_type": "image/png",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Decentralized-Science-DeSci-150x150.png"
+                },
+                "medium_large": {
+                  "file": "Decentralized-Science-DeSci-768x384.png",
+                  "width": 768,
+                  "height": 384,
+                  "mime_type": "image/png",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Decentralized-Science-DeSci-768x384.png"
+                },
+                "blog-thumb": {
+                  "file": "Decentralized-Science-DeSci-775x388.png",
+                  "width": 775,
+                  "height": 388,
+                  "mime_type": "image/png",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Decentralized-Science-DeSci-775x388.png"
+                },
+                "blog-thumb-listbig": {
+                  "file": "Decentralized-Science-DeSci-775x400.png",
+                  "width": 775,
+                  "height": 400,
+                  "mime_type": "image/png",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Decentralized-Science-DeSci-775x400.png"
+                },
+                "blog-thumb-listsmall": {
+                  "file": "Decentralized-Science-DeSci-240x190.png",
+                  "width": 240,
+                  "height": 190,
+                  "mime_type": "image/png",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Decentralized-Science-DeSci-240x190.png"
+                },
+                "full": {
+                  "file": "Decentralized-Science-DeSci.png",
+                  "width": 1200,
+                  "height": 600,
+                  "mime_type": "image/png",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Decentralized-Science-DeSci.png"
+                }
+              },
+              "image_meta": {
+                "aperture": "0",
+                "credit": "",
+                "camera": "",
+                "caption": "",
+                "created_timestamp": "0",
+                "copyright": "",
+                "focal_length": "0",
+                "iso": "0",
+                "shutter_speed": "0",
+                "title": "",
+                "orientation": "0",
+                "keywords": []
+              }
+            },
+            "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Decentralized-Science-DeSci.png",
+            "_links": {
+              "self": [
+                {
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/media/207"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/media"
+                }
+              ],
+              "about": [
+                {
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/types/attachment"
+                }
+              ],
+              "author": [
+                {
+                  "embeddable": true,
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/users/3"
+                }
+              ],
+              "replies": [
+                {
+                  "embeddable": true,
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/comments?post=207"
+                }
+              ]
+            }
+          }
+        ],
+        "wp:term": [
+          [
+            {
+              "id": 6,
+              "link": "https://blog.cfund.me/category/education/",
+              "name": "Education",
+              "slug": "education",
+              "taxonomy": "category",
+              "_links": {
+                "self": [
+                  {
+                    "href": "https://blog.cfund.me/wp-json/wp/v2/categories/6"
+                  }
+                ],
+                "collection": [
+                  {
+                    "href": "https://blog.cfund.me/wp-json/wp/v2/categories"
+                  }
+                ],
+                "about": [
+                  {
+                    "href": "https://blog.cfund.me/wp-json/wp/v2/taxonomies/category"
+                  }
+                ],
+                "wp:post_type": [
+                  {
+                    "href": "https://blog.cfund.me/wp-json/wp/v2/posts?categories=6"
+                  }
+                ],
+                "curies": [
+                  {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ],
+          []
+        ]
+      }
+    },
+    {
+      "id": 192,
+      "date": "2022-08-11T17:19:29",
+      "title": {
+        "rendered": "Memanfaatkan Bear Market Saat ini Untuk Menjadi INVESTOR Yang Lebih Baik di Bull Run Berikutnya"
+      },
+      "content": {
+        "rendered": "\n<p>Sementara beberapa dari kita mungkin pernah mengalami siklus crypto sebelumnya dan memiliki pengalaman saat terjadi <strong>Bear Market</strong> sebelumnya. Beberapa orang yang baru masuk ke pasar crypto dari akhir 2020, 2021 dan 2022 baru saja mengalami pasar beruang <strong>Bear Market</strong> pertama mereka.</p>\n\n\n\n<p>Tidak seperti saat terjadi <strong>Bull Market</strong> di mana pasar sedang booming dengan partisipasi ritel dan institusional, pendanaan besar dan penilaian proyek jutaan dolar, banyak token 100x, kekayaan instan hanya dengan menciptakan koin meme dan NFT. <strong>Bear Market</strong> datang dengan lebih sedikit aktivitas dan peluang seperti itu, ini karena banyak investor kehilangan minat di pasar, oleh karena itu hype menjadi lebih sulit untuk dihasilkan, tekanan sisi beli juga menjadi sedikit secara signifikan untuk sebagian besar aset kripto.</p>\n\n\n\n<p>Namun, salah satu keuntungan dari <strong>Bear Market</strong> adalah bahwa aktivitas crypto menjadi lebih lambat dan lebih mudah dilacak, memberi Anda waktu untuk melakukan <em>research</em> dan memposisikan diri Anda untuk <strong>Bull Market</strong> berikutnya yang pada akhirnya akan terjadi nantinya.</p>\n\n\n\n<p>Dalam Artikel ini kami akan mengedukasi Anda tentang beberapa langkah tentang bagaimana memanfaatkan <strong>Bear Market</strong> saat ini untuk menjadi investor yang lebih baik untuk reli <strong>Bull Market</strong> berikutnya, dan menjamin profitabilitas maksimum saat itu tiba.</p>\n\n\n\n<h2>Mempelajari Tentang Analisis Fundamental</h2>\n\n\n\n<p>Sebagian besar investor ritel di crypto tidak memiliki latar belakang di bidang keuangan dan pada dasarnya adalah &#8220;<strong>degen</strong>&#8221; yang <strong>FOMO</strong> membeli token yang mendapatkan hype di media sosial. Sementara beberapa dari <strong>degen</strong> itu beruntung mendapatkan profit atau keuntungan, tetapi banyak yang lain mengalami kerugian besar, bahkan beberapa kehilangan tabungan hidup mereka.</p>\n\n\n\n<p><p><strong>Degen</strong> adalah singkatan untuk &#8216;<strong>degenerate</strong>&#8216;, itu umumnya digunakan mengacu pada penjudi dengan kecenderungan untuk mempertaruhkan uang tunai dalam jumlah besar tanpa pengetahuan atau pengalaman untuk mendukungnya.</p></p>\n\n\n\n<p>Salah satu cara untuk secara substansial mengurangi kemungkinan kehilangan modal investasi Anda adalah dengan memahami seni analisis fundamental crypto. Sebelum Anda membeli aset  crypto  apa pun, pastikan Anda mengetahui dan memahami beberapa dasar tentangnya. Salah satu yang paling penting adalah memahami &#8220;<strong>tokenomics</strong>&#8221; dari token tertentu.</p>\n\n\n\n<p>Anda harus memiliki jawaban atas pertanyaan-pertanyaan berikut:</p>\n\n\n\n<ul><li>Berapa jumlah token maksimum dan beredar saat ini?</li><li>Apakah ada <em>seed round/private sale</em>? dan jika ada, siapa saja yang berpartisipasi di dalamnya? dan kapan jadwal vesting? Vesting dapat dikatakan sebagai penguncian token dengan waktu tertentu dan pemilik aset crypto tidak boleh menjualnya dalam periode waktu tertentu.</li><li>Seberapa relevan token dengan proyek? dengan kata lain, apakah memiliki token merupakan fitur yang diperlukan untuk proyek tertentu itu?</li><li>Apakah token inflasi (peningkatan pasokan dari waktu ke waktu) atau Deflasi (penurunan pasokan dari waktu ke waktu)?</li><li>Apakah token memiliki utilitas yang cukup untuk menghasilkan permintaan organik?</li></ul>\n\n\n\n<p>Kami percaya bahwa sejumlah besar analisis fundamental Anda harus terhubung ke token. Karena membeli token adalah metode paling umum untuk berinvestasi dalam proyek crypto. Hal lain yang harus Anda ketahui adalah Ide umum di balik proyek yaitu masalah kehidupan nyata apa yang ingin dipecahkan/utilitas yang ingin diberikannya. <em>Roadmap</em> proyek, dan seberapa rajin tim telah mewujudkannya sejauh ini. Sebagian besar informasi ini dapat ditemukan di <em>whitepaper</em> proyek atau dengan bertanya langsung kepada tim/admin di grup media sosial mereka.</p>\n\n\n\n<h2>Memahami Dasar Analisis Teknikal</h2>\n\n\n\n<p>Salah satu masalah investasi yang menjangkiti sebagian besar investor ritel selama reli terakhir adalah ketidakmampuan untuk mengetahui kapan harus membeli, dan kapan harus menjual token. Sebagian besar investor ritel melakukan pembelian dan penjualan token mereka pada apa yang dikatakan influencer crypto. Banyak investor terperangkap dalam euforia dan bertindak dengan frasa yang menyesatkan seperti &#8220;tidak pernah menjual&#8221;, &#8220;tangan berlian selamanya/diamond hand&#8221;, &#8220;Hodl&#8221; &#8220;tidak ada entri yang lebih baik dari sekarang&#8221; (sambil mengacu pada token yang sudah berada di ATH-nya). Nah, sementara para investor ini sibuk menyimpan dan membeli token dengan harga tinggi sepanjang waktu, investor ritel cerdas dan investor institusional termasuk influencer favorit Anda sibuk menjual untuk mengamankan keuntungan.</p>\n\n\n\n<p>Sekarang kita berada di <strong>Bear Market</strong>, dengan semua berita buruk ekonomi makro, sekarang saatnya bagi Anda untuk mempelajari dasar analisis teknikal. Jika analisis Fundamental memberi Anda alasan untuk membeli token, maka analisis teknikal bertujuan untuk memberi tahu Anda kapan harus membeli token itu dan kapan harus menjualnya. Analisis teknikal adalah seni menggunakan alat teknis seperti grafik harga, rata-rata harga, pola harga untuk memprediksi secara efisien ke mana arah harga.</p>\n\n\n\n<p>Sebagai investor crypto, Anda ingin belajar dan mengetahui cara menggunakan alat teknis dasar untuk meningkatkan strategi masuk dan keluar Anda pada token tertentu. Jika Anda melangkah lebih jauh untuk mempelajari analisis teknikal yang lebih maju, Anda akan dapat mengikuti volatilitas aset kripto untuk mengamankan keuntungan. Ingat, tujuan Anda adalah menjadi investor crypto yang menguntungkan secara optimal, yang mungkin tidak dijamin hanya dengan model beli dan hodl. Oleh karena itu, belajar mengendarai ombak pasar adalah keterampilan yang penting.</p>\n\n\n\n<h2>Belajar Dari Kegagalan Kemarin</h2>\n\n\n\n<p>Melakukan evaluasi dengan melihat ke belakang harus digunakan selama periode <strong>Bear Market</strong> ini untuk menilai kegagalan saat <strong>Bull Market</strong> terakhir, dan bagaimana menghindarinya di pasar berikutnya. Kegiatan khusus ini harus dibagi menjadi dua: kegagalan pribadi dan eksternal.</p>\n\n\n\n<p>Anda ingin melakukan perjalanan ke masa lalu dan menilai apa yang Anda lakukan selama <strong>Bull Market</strong> terakhir yang membatasi profitabilitas Anda atau mencuri modal dan keuntungan Anda dari Anda. Setelah Anda menilai kegagalan ini secara kritis, pelajari cara menghindarinya di masa mendatang dan Anda akan setengah siap untuk Reli <strong>Bull Market</strong> berikutnya.</p>\n\n\n\n<p>Saat ini banyak contoh faktor eksternal, seperti token Luna dan kerusakan ekosistem, kebangkrutan 3AC, kegagalan algoritma <em>stable coin</em>, dan beberapa peretasan atau hack di beberapa ekosistem. Luangkan waktu untuk meneliti mekanika dan cacat fungsional yang mengakibatkan kegagalan luar biasa ini dan belajar darinya. Sehingga di <strong>Bull Market</strong> berikutnya dan bahkan di <strong>Bear Market</strong> ini, Anda akan tahu cara mengidentifikasi dan menghindari proyek dengan kekurangan serupa. Dengan demikian mengurangi eksposur risiko investasi Anda.</p>\n\n\n\n<h2>Memilih Mata Uang Crypto Blue-Chip dan Lakukan DCA</h2>\n\n\n\n<p>Fakta bahwa kita mengalami <strong>Bear Market</strong> adalah fenomena keuangan yang benar-benar normal. Sebagian besar mata uang crypto akan hilang selama <strong>Bear Market</strong>, ada beberapa token crypto yang akan menjadi bagian dari reli di <strong>Bull Market</strong> berikutnya, aset kripto ini saat ini ditawarkan kepada Anda dengan harga diskon. Tugas Anda adalah menemukan mata uang kripto tersebut, melakukan analisis fundamental pada mata uang tersebut untuk memprediksi kemampuan bertahannya dan setelah Anda memilihnya, Anda dapat perlahan-lahan menbeli dengan sistem <em><strong>Dollar Cost Averaging</strong></em> <strong>(DCA).</strong> DCA adalah metodologi investasi yang aman, yang melibatkan investor membeli aset dalam jumlah kecil pada interval yang ditentukan. Gunakan <strong>Bear Market</strong> ini untuk menskalakan aset crypto blue-chip tersebut. Sebagian besar dari mereka mungkin tidak menawarkan Anda peluang keuntungan 100x, Namun Anda akan dapat memperoleh keuntungan yang signifikan dari mereka ketika <strong>Bull Market</strong> berikutnya datang. </p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Sementara beberapa dari kita mungkin pernah mengalami siklus crypto sebelumnya dan memiliki pengalaman saat terjadi Bear Market sebelumnya. Beberapa orang yang baru masuk ke pasar crypto dari akhir 2020, 2021 dan 2022 baru saja mengalami pasar beruang Bear Market pertama mereka. Tidak seperti saat terjadi Bull Market di mana pasar sedang booming dengan partisipasi ritel [&hellip;]</p>\n",
+        "protected": false
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://blog.cfund.me/wp-json/wp/v2/posts/192"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://blog.cfund.me/wp-json/wp/v2/posts"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://blog.cfund.me/wp-json/wp/v2/types/post"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/users/3"
+          }
+        ],
+        "replies": [
+          {
+            "embeddable": true,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/comments?post=192"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 8,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/posts/192/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 201,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/posts/192/revisions/201"
+          }
+        ],
+        "wp:featuredmedia": [
+          {
+            "embeddable": true,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/media/198"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://blog.cfund.me/wp-json/wp/v2/media?parent=192"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/categories?post=192"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/tags?post=192"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      },
+      "_embedded": {
+        "author": [
+          {
+            "id": 3,
+            "name": "Choirib Mahendra",
+            "url": "",
+            "description": "",
+            "link": "https://blog.cfund.me/author/hendra/",
+            "slug": "hendra",
+            "avatar_urls": {
+              "24": "https://secure.gravatar.com/avatar/3dffac5d015b347a2ed1037ebd74c77d?s=24&d=mm&r=g",
+              "48": "https://secure.gravatar.com/avatar/3dffac5d015b347a2ed1037ebd74c77d?s=48&d=mm&r=g",
+              "96": "https://secure.gravatar.com/avatar/3dffac5d015b347a2ed1037ebd74c77d?s=96&d=mm&r=g"
+            },
+            "_links": {
+              "self": [
+                {
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/users/3"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/users"
+                }
+              ]
+            }
+          }
+        ],
+        "wp:featuredmedia": [
+          {
+            "id": 198,
+            "date": "2022-08-10T07:35:27",
+            "slug": "bear-market",
+            "type": "attachment",
+            "link": "https://blog.cfund.me/memanfaatkan-bear-market-saat-ini-untuk-menjadi-investor-yang-lebih-baik-di-bull-run-berikutnya/bear-market/",
+            "title": {
+              "rendered": "Bear Market"
+            },
+            "author": 3,
+            "caption": {
+              "rendered": ""
+            },
+            "alt_text": "",
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "media_details": {
+              "width": 1600,
+              "height": 900,
+              "file": "2022/08/Bear-Market.jpeg",
+              "sizes": {
+                "medium": {
+                  "file": "Bear-Market-300x169.jpeg",
+                  "width": 300,
+                  "height": 169,
+                  "mime_type": "image/jpeg",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Bear-Market-300x169.jpeg"
+                },
+                "large": {
+                  "file": "Bear-Market-1024x576.jpeg",
+                  "width": 1024,
+                  "height": 576,
+                  "mime_type": "image/jpeg",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Bear-Market-1024x576.jpeg"
+                },
+                "thumbnail": {
+                  "file": "Bear-Market-150x150.jpeg",
+                  "width": 150,
+                  "height": 150,
+                  "mime_type": "image/jpeg",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Bear-Market-150x150.jpeg"
+                },
+                "medium_large": {
+                  "file": "Bear-Market-768x432.jpeg",
+                  "width": 768,
+                  "height": 432,
+                  "mime_type": "image/jpeg",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Bear-Market-768x432.jpeg"
+                },
+                "1536x1536": {
+                  "file": "Bear-Market-1536x864.jpeg",
+                  "width": 1536,
+                  "height": 864,
+                  "mime_type": "image/jpeg",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Bear-Market-1536x864.jpeg"
+                },
+                "blog-thumb": {
+                  "file": "Bear-Market-775x436.jpeg",
+                  "width": 775,
+                  "height": 436,
+                  "mime_type": "image/jpeg",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Bear-Market-775x436.jpeg"
+                },
+                "blog-thumb-listbig": {
+                  "file": "Bear-Market-775x400.jpeg",
+                  "width": 775,
+                  "height": 400,
+                  "mime_type": "image/jpeg",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Bear-Market-775x400.jpeg"
+                },
+                "blog-thumb-listsmall": {
+                  "file": "Bear-Market-240x190.jpeg",
+                  "width": 240,
+                  "height": 190,
+                  "mime_type": "image/jpeg",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Bear-Market-240x190.jpeg"
+                },
+                "full": {
+                  "file": "Bear-Market.jpeg",
+                  "width": 1600,
+                  "height": 900,
+                  "mime_type": "image/jpeg",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Bear-Market.jpeg"
+                }
+              },
+              "image_meta": {
+                "aperture": "0",
+                "credit": "",
+                "camera": "",
+                "caption": "",
+                "created_timestamp": "0",
+                "copyright": "",
+                "focal_length": "0",
+                "iso": "0",
+                "shutter_speed": "0",
+                "title": "",
+                "orientation": "0",
+                "keywords": []
+              }
+            },
+            "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/Bear-Market.jpeg",
+            "_links": {
+              "self": [
+                {
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/media/198"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/media"
+                }
+              ],
+              "about": [
+                {
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/types/attachment"
+                }
+              ],
+              "author": [
+                {
+                  "embeddable": true,
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/users/3"
+                }
+              ],
+              "replies": [
+                {
+                  "embeddable": true,
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/comments?post=198"
+                }
+              ]
+            }
+          }
+        ],
+        "wp:term": [
+          [
+            {
+              "id": 6,
+              "link": "https://blog.cfund.me/category/education/",
+              "name": "Education",
+              "slug": "education",
+              "taxonomy": "category",
+              "_links": {
+                "self": [
+                  {
+                    "href": "https://blog.cfund.me/wp-json/wp/v2/categories/6"
+                  }
+                ],
+                "collection": [
+                  {
+                    "href": "https://blog.cfund.me/wp-json/wp/v2/categories"
+                  }
+                ],
+                "about": [
+                  {
+                    "href": "https://blog.cfund.me/wp-json/wp/v2/taxonomies/category"
+                  }
+                ],
+                "wp:post_type": [
+                  {
+                    "href": "https://blog.cfund.me/wp-json/wp/v2/posts?categories=6"
+                  }
+                ],
+                "curies": [
+                  {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ],
+          []
+        ]
+      }
+    },
+    {
+      "id": 185,
+      "date": "2022-08-08T13:56:49",
+      "title": {
+        "rendered": "A Complete Guide On How To Do Research in Crypto!"
+      },
+      "content": {
+        "rendered": "\n<p>If you have even the slightest inkling of crypto and have yearned to profit from it, considering the hype that has taken the world by storm, you must be no stranger to researching it online. With so many sources, material and technical jargon, it is no easy feat to do your research. Where do I even begin, is what many have often asked us, and so we decided to break it up for you so that you know how to research crypto like a pro.</p>\n\n\n\n<p>The best approach is to break your research into modules. </p>\n\n\n\n<h2 id=\"d6eb\">1. Technical understanding</h2>\n\n\n\n<p id=\"903b\">Technical understanding is all about having a sound knowledge of how the technology that you put your money into is working at the back end. Researching the basics of how something actually works is time consuming, but it will have great benefits in the long term such as higher profits and more effortless navigation in the space.</p>\n\n\n\n<p id=\"ebef\">To give you a basic starter pack of where to start from, you first need to evaluate your existing knowledge. Here’s are some lists for everyone, wherever your skillset lies:</p>\n\n\n\n<h3 id=\"c395\">Beginners:</h3>\n\n\n\n<ul><li>Encryption in crypto</li><li>Web3 and how it works</li><li>How different cryptocurrencies operate, for example BTC, ETH, BNB, and SOL</li><li>Hot wallet vs cold wallet</li><li>All about ETH&#8217;s merge</li><li>Yield farms</li><li>Consensus Mechanisms, for example Proof of Stake and Proof of Work</li></ul>\n\n\n\n<h3 id=\"473a\">Intermediate:</h3>\n\n\n\n<ul><li>DEX vs. CEX</li><li>Liquidity mining</li><li>Pool 1 and Pool 2</li><li>Basic tokenomics</li><li>Layer 0, 1, and 2</li><li>Impermant loss vs slippage vs staking</li></ul>\n\n\n\n<h3 id=\"37c0\">Experts:</h3>\n\n\n\n<ul><li>Advanced tokenomics</li><li>Governance Proposals</li><li>Differences among L2 Roll-Ups</li></ul>\n\n\n\n<p>These lists are in no way exhaustive. However, they will give you a good place you can take your initial launch from to begin research in this domain. The best rule to remember while doing research on any of these is always to start from the main sources first for example the Bitcoin or Ethereum. Next, to develop more understanding, you can follow with blogs and videos.</p>\n\n\n\n<h2 id=\"fa3d\">2. Earning Skills</h2>\n\n\n\n<p id=\"6bef\">Not everyone aware of cryptocurrencies has been able to draw even a cent’s profit from it. To make profit, you must know some basic earning skills such as decision making, risk management, how to make your portfolio, and some basic trading psychology is always a bonus.</p>\n\n\n\n<p id=\"8041\">A great rule in investment is to always juice out profits when you have made twice that amount. Let money make money.</p>\n\n\n\n<h2 id=\"907d\">3. Crypto skills</h2>\n\n\n\n<p id=\"c673\">An advantageous thing to have in your knowledge toolbox are some crypto skills that are specially relevant to investment and crypto portfolio building.</p>\n\n\n\n<p id=\"ecfa\">Discover different protocols that are being followed and in the development phase. Some places that are a good start are through connections, top twitter accounts based on crypto, DeFiLlama, and keep a close watch on what VCs (Venture Capitalists) invest in at present.</p>\n\n\n\n<p id=\"9f9c\">You may also track whale wallets, which are basically wallets of people who hold a large amount of a particular cryptocurrency, enough that their movement may influence its trends in the market. Some good tools for this purpose are Nansen’s Smart Money feature and Debank. You can even create your own list of whales; here’s how:</p>\n\n\n\n<ul><li>Find a token with a large amount of smart money, such as GMX</li><li>See who holds the most amount of that token</li><li>Use Zapper FI to search their wallet addresses and see what they hold</li></ul>\n\n\n\n<p id=\"a5c0\">The idea behind this detective work is to have an edge by knowing whale movements so that you can make quick decisions based on that information and then gain huge profits before most people.</p>\n\n\n\n<p id=\"8214\">Remember, the rule of thumb here is to practice, and soon you’ll be an expert in the trick of the trade.</p>\n\n\n\n<h2 id=\"dce7\">4. General learning areas</h2>\n\n\n\n<p id=\"c61d\">Finally, no crypto study would be complete without knowledge of broader subjects that surround it such as macroeconomics.</p>\n\n\n\n<p id=\"caa1\">Some areas to begin with are:</p>\n\n\n\n<ul><li>Finance</li><li>Accounting</li><li>Cryptography</li><li>Risk management</li><li>Market history</li><li>Behavioral finance</li></ul>\n\n\n\n<p id=\"2f53\">Remember that you just need to know the basics of each of these. Even too much study isn’t the best idea because it may hold you back from getting started as you will never feel that you know enough.</p>\n\n\n\n<p id=\"4722\">To conclude, once you have sufficient knowledge of these, you will have no problems in navigating any space in the crypto world, be it DeFi, NFTs, GameFi or basic cryptocurrency investment. As the applications are enhancing, crypto has widened its branches into many further areas and it has become impossible to keep up with each of them. Hence, once you know the basics, you can choose which domain you want to dive deep into. Avoid falling into the traps of FOMO, and get learning!</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>If you have even the slightest inkling of crypto and have yearned to profit from it, considering the hype that has taken the world by storm, you must be no stranger to researching it online. With so many sources, material and technical jargon, it is no easy feat to do your research. Where do I [&hellip;]</p>\n",
+        "protected": false
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://blog.cfund.me/wp-json/wp/v2/posts/185"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://blog.cfund.me/wp-json/wp/v2/posts"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://blog.cfund.me/wp-json/wp/v2/types/post"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/users/3"
+          }
+        ],
+        "replies": [
+          {
+            "embeddable": true,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/comments?post=185"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 4,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/posts/185/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 190,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/posts/185/revisions/190"
+          }
+        ],
+        "wp:featuredmedia": [
+          {
+            "embeddable": true,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/media/187"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://blog.cfund.me/wp-json/wp/v2/media?parent=185"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/categories?post=185"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "https://blog.cfund.me/wp-json/wp/v2/tags?post=185"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      },
+      "_embedded": {
+        "author": [
+          {
+            "id": 3,
+            "name": "Choirib Mahendra",
+            "url": "",
+            "description": "",
+            "link": "https://blog.cfund.me/author/hendra/",
+            "slug": "hendra",
+            "avatar_urls": {
+              "24": "https://secure.gravatar.com/avatar/3dffac5d015b347a2ed1037ebd74c77d?s=24&d=mm&r=g",
+              "48": "https://secure.gravatar.com/avatar/3dffac5d015b347a2ed1037ebd74c77d?s=48&d=mm&r=g",
+              "96": "https://secure.gravatar.com/avatar/3dffac5d015b347a2ed1037ebd74c77d?s=96&d=mm&r=g"
+            },
+            "_links": {
+              "self": [
+                {
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/users/3"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/users"
+                }
+              ]
+            }
+          }
+        ],
+        "wp:featuredmedia": [
+          {
+            "id": 187,
+            "date": "2022-08-08T12:30:42",
+            "slug": "images",
+            "type": "attachment",
+            "link": "https://blog.cfund.me/a-complete-guide-on-how-to-do-research-in-crypto/images/",
+            "title": {
+              "rendered": "Cryptocurency"
+            },
+            "author": 3,
+            "caption": {
+              "rendered": ""
+            },
+            "alt_text": "",
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "media_details": {
+              "width": 259,
+              "height": 194,
+              "file": "2022/08/images.jpg",
+              "sizes": {
+                "thumbnail": {
+                  "file": "images-150x150.jpg",
+                  "width": 150,
+                  "height": 150,
+                  "mime_type": "image/jpeg",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/images-150x150.jpg"
+                },
+                "blog-thumb-listsmall": {
+                  "file": "images-240x190.jpg",
+                  "width": 240,
+                  "height": 190,
+                  "mime_type": "image/jpeg",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/images-240x190.jpg"
+                },
+                "full": {
+                  "file": "images.jpg",
+                  "width": 259,
+                  "height": 194,
+                  "mime_type": "image/jpeg",
+                  "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/images.jpg"
+                }
+              },
+              "image_meta": {
+                "aperture": "0",
+                "credit": "",
+                "camera": "",
+                "caption": "",
+                "created_timestamp": "0",
+                "copyright": "",
+                "focal_length": "0",
+                "iso": "0",
+                "shutter_speed": "0",
+                "title": "",
+                "orientation": "0",
+                "keywords": []
+              }
+            },
+            "source_url": "https://blog.cfund.me/wp-content/uploads/2022/08/images.jpg",
+            "_links": {
+              "self": [
+                {
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/media/187"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/media"
+                }
+              ],
+              "about": [
+                {
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/types/attachment"
+                }
+              ],
+              "author": [
+                {
+                  "embeddable": true,
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/users/3"
+                }
+              ],
+              "replies": [
+                {
+                  "embeddable": true,
+                  "href": "https://blog.cfund.me/wp-json/wp/v2/comments?post=187"
+                }
+              ]
+            }
+          }
+        ],
+        "wp:term": [
+          [
+            {
+              "id": 6,
+              "link": "https://blog.cfund.me/category/education/",
+              "name": "Education",
+              "slug": "education",
+              "taxonomy": "category",
+              "_links": {
+                "self": [
+                  {
+                    "href": "https://blog.cfund.me/wp-json/wp/v2/categories/6"
+                  }
+                ],
+                "collection": [
+                  {
+                    "href": "https://blog.cfund.me/wp-json/wp/v2/categories"
+                  }
+                ],
+                "about": [
+                  {
+                    "href": "https://blog.cfund.me/wp-json/wp/v2/taxonomies/category"
+                  }
+                ],
+                "wp:post_type": [
+                  {
+                    "href": "https://blog.cfund.me/wp-json/wp/v2/posts?categories=6"
+                  }
+                ],
+                "curies": [
+                  {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ],
+          []
+        ]
+      }
+    }
+  ]
