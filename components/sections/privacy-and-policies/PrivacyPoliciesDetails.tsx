@@ -6,9 +6,9 @@ const PrivacyPoliciesDetails: React.FC  = () => {
   function handleScroll() {
     if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
       console.log('scrolled to bottom');
-      if(window.FLUTTER_CHANNEL){
-        window.FLUTTER_CHANNEL.postMessage('end of scroll');
-      }
+      // if(window.FLUTTER_CHANNEL){
+      //   window.FLUTTER_CHANNEL.postMessage('end of scroll');
+      // }
     }
   }
 

@@ -95,9 +95,9 @@ import {
             </Stack>
             <Stack align={'flex-start'}>
               <ListHeader>Disclaimer</ListHeader>
-              <a href={'https://info.cfund.me/terms-and-conditions/'} target='_blank'>Terms & Conditions</a>
-              <a href={'https://info.cfund.me/terms-and-conditions/'} target='_blank'>Privacy Policy</a>
-              <a href={'https://info.cfund.me/how-to-referrals/'} target='_blank'>How to Referrals</a>
+              <a href={'https://info.cfund.me/terms-and-conditions/'} >Terms & Conditions</a>
+              <a href={'https://info.cfund.me/terms-and-conditions/'} >Privacy Policy</a>
+              <a href={'https://info.cfund.me/how-to-referrals/'} >How to Referrals</a>
             </Stack>
             <Stack align={'flex-start'}>
               <ListHeader>Follow Us</ListHeader>

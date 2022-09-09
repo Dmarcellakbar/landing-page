@@ -38,7 +38,7 @@ export default function Moreinfo() {
         <Box py={6}>
             <div style={{ textAlign: 'center'}}>
                 <a href='mailto:cs@cfund.id'><Button mr={'10'} color={'white'} backgroundColor={'#ffa520'}>Chat with Us</Button></a>
-                <a href='mailto:cs@cfund.id' target='_blank'><Button color={'white'} backgroundColor={'#ffa520'}>Send Email</Button></a>
+                <a href='mailto:cs@cfund.id'><Button color={'white'} backgroundColor={'#ffa520'}>Send Email</Button></a>
             </div>
         </Box>
     </section>
