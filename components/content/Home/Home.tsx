@@ -14,7 +14,6 @@ export default function Home() {
         width:"100%",
         height:"100%",
         backgroundSize: 'cover',
-
     }
   return (
     <section className="section position-relative" style={styling}>

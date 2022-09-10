@@ -14,7 +14,7 @@ export default function Terms() {
     }
   return (
     <section className="section position-relative" style={styling}>
-      <Container >
+      <Container style={{ paddingBottom: '10%', paddingTop: '10%' }}>
         <Row>
           <Col lg={6}>
             <VStack marginTop={'15%'}>

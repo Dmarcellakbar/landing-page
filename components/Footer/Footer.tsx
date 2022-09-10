@@ -58,6 +58,7 @@ import {
   
   export default function LargeWithLogoCentered() {
     return (
+      <section className="section position-relative">
       <Box
         bg={useColorModeValue('#011535', '#011535')}
         color={useColorModeValue('gray.100', 'gray.100')}>
@@ -144,5 +145,6 @@ import {
           </Text>
         </Box>
       </Box>
+      </section>
     );
   }

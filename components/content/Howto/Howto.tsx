@@ -16,8 +16,8 @@ export default function Howto() {
     }
 
   return (
-    <section style={styling}>
-      <Container style={{ maxWidth: '80rem'}}>
+    <section className="section position-relative" style={styling}>
+      <Container style={{ maxWidth: '80rem', paddingBottom: '10%'}}>
       <Box py={6}>
             <div style={{ textAlign: 'center', marginTop: '10%'}}>
                 <Text as={'b'} fontSize='4xl' color={'white'}>
@@ -30,7 +30,7 @@ export default function Howto() {
             </div>
         </Box>
         <Row >
-        <Col lg={4} >
+        <Col lg={4} style={{ paddingBottom: '10%' }}>
             <Box textAlign={'center'} backgroundColor={'#01264C'} rounded={'16px'} p={'32px'} w={'100%'} h={'100%'}>
                 <Image src={Identity} style={{ width: '15rem', maxWidth: '100%', height: 'auto' }}/>
                 <br />
@@ -46,7 +46,7 @@ export default function Howto() {
                 </Text>
             </Box>
           </Col>
-          <Col lg={4}>
+          <Col lg={4} style={{ paddingBottom: '10%' }}>
             <Box textAlign={'center'} backgroundColor={'#01264C'} rounded={'16px'} p={'32px'} w={'auto'} h={'100%'}>
             <Image src={Agreement} style={{ width: '15rem', maxWidth: '100%', height: 'auto' }}/>
             <br />
@@ -63,7 +63,7 @@ export default function Howto() {
             </Box>
           </Col>
 
-          <Col lg={4}>
+          <Col lg={4} style={{ paddingBottom: '10%' }}>
             <Box textAlign={'center'} backgroundColor={'#01264C'} rounded={'16px'} p={'32px'} w={'auto'} h={'100%'}>
             <Image src={Aum} style={{ width: '15rem', maxWidth: '100%', height: 'auto' }}/>
             <br />

@@ -11,6 +11,7 @@ const { Header, Content } = Layout;
 
 export default function Home({children}: any) {
   return (
+    <section className="section position-relative">
       <Layout>
         <Header style={{ position: 'fixed', zIndex: 1, width: '100%', backgroundColor: '#011535' }}>
         <Row justify="center">
@@ -55,5 +56,6 @@ export default function Home({children}: any) {
         <Content>{children}</Content>
           {/* <FooterBar /> */}
         </Layout>
+        </section>
   )
 }

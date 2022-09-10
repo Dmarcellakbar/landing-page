@@ -79,6 +79,7 @@ const menu = (
 
 export default function MobileNavbar() {
   return (
+    <section className="section position-relative">
     <Layout>
         <Header style={{ position: 'fixed', zIndex: 1, width: '100%'}}>
             <Row justify="center">
@@ -101,5 +102,6 @@ export default function MobileNavbar() {
             </Row>
         </Header>
     </Layout>
+    </section>
   )
 }

@@ -8,25 +8,30 @@
 .site-layout .site-layout-background {
   background: #011535;
   color: #fff;
+  font-family: 'Poppins';
 }
 
 .site-layout-background2 {
   background: #011535;
   color: #fff;
+  font-family: 'Poppins';
 }
 
 .section {
   padding-top: 0%;
   padding-bottom: 0%;
   position: absolute;
+  font-family: 'Poppins';
 }
 
 .site-text {
   color: #011c3f;
   background-color: #011c3f;
+  font-family: 'Poppins';
 }
 
 .responsive {
   width: 100%;
   height: auto;
+  font-family: 'Poppins';
 }
