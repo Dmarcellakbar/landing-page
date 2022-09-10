@@ -4,8 +4,14 @@ import Image from 'next/image';
 import cycle from '../../../assets/images/cycle-ilustration.png';
 import { Box, Flex, HStack, Stack, Text, useColorModeValue, VStack } from '@chakra-ui/react';
 import bg from '../../../assets/images/bg-fee.png'
+import { useMediaQuery } from 'react-responsive'
 
 export default function Terms() {
+  const isDesktopOrLaptop = useMediaQuery({
+    query: '(min-width: 800px)'
+  })
+  const isMobile = useMediaQuery({ query: '(max-width: 414px)' })
+  
     const styling = {
         backgroundImage: `url('${bg.src}')`,
         width:"100%",
@@ -16,6 +22,13 @@ export default function Terms() {
     <section className="section position-relative" style={styling}>
       <Container style={{ paddingBottom: '10%', paddingTop: '10%' }}>
         <Row>
+        {isMobile &&
+            <Col lg={6}>
+              <VStack>
+                <Image src={cycle} className="img-fluid mx-auto d-block"/>
+              </VStack>
+            </Col>
+          }
           <Col lg={6}>
             <VStack marginTop={'15%'}>
               <Text as={'b'} fontSize='5xl' color={'white'}>
@@ -28,11 +41,13 @@ export default function Terms() {
                 </Text>
             </VStack>
           </Col>
-          <Col lg={6}>
-            <VStack>
-              <Image src={cycle} className="img-fluid mx-auto d-block"/>
-            </VStack>
-          </Col>
+          {isDesktopOrLaptop &&
+            <Col lg={6}>
+              <VStack>
+                <Image src={cycle} className="img-fluid mx-auto d-block"/>
+              </VStack>
+            </Col>
+          }
         </Row>
       </Container>
     </section>
