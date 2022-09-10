@@ -17,10 +17,10 @@ import MobileNavbar from '../components/Navbar/MobileNavbar'
 
 const Home: NextPage = () => {
   const isDesktopOrLaptop = useMediaQuery({
-    query: '(min-width: 1224px)'
+    query: '(min-width: 800px)'
   })
   // const isBigScreen = useMediaQuery({ query: '(min-width: 1824px)' })
-  const isTablet = useMediaQuery({ query: '(max-width: 1224px)' })
+  const isTablet = useMediaQuery({ query: '(max-width: 800px)' })
   // const isPortrait = useMediaQuery({ query: '(orientation: portrait)' })
   // const isRetina = useMediaQuery({ query: '(min-resolution: 2dppx)' })
   // const isMobile = useMediaQuery({ query: '(max-width: 414px)' })
