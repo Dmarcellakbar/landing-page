@@ -16,7 +16,7 @@ import LogoPartner from '../../../assets/images/logo-partner.png'
 export default function Running() {
   return (
     <Box bg='#011C3F'>
-        <Marquee gradient={false} speed={30}>
+        <Marquee gradient={false} speed={20}>
             <HStack>
                 <Image
                     // width={'100%'}

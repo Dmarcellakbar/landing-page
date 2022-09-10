@@ -44,7 +44,7 @@ export default function Performance() {
                 CFund manages your capital with rigorous position sizing, advanced trading
                 strategy, and a conservative stop loss.
                 </Text>
-                <a href='/download' target='_blank'><Button mr={'10'} color={'white'} fontSize='2xl' backgroundColor={'#ffa520'}>See Performance Details</Button></a>
+                <a href='/download' target='_blank'><Button mr={'10'} color={'white'} fontSize='2xl' backgroundColor={'#ffa520'} paddingInline={'6'}>See Performance Details</Button></a>
             </Box>
           </Col>
         </Row>

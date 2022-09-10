@@ -26,7 +26,7 @@ export default function News() {
               {/* <a href={href}> */}
               <a href="https://blog.cfund.me/apa-itu-decentralized-science-desci/" >
               <Image style={{ borderTopRightRadius: 20, borderTopLeftRadius: 20}} src={Satu}/>
-                <Box w='15rem' p={'7%'}>
+                <Box w='100%' p={'7%'}>
                   <Text as={'b'} fontSize={'1x1'}>Apa itu decentralized science (DeSci)?</Text>
                   <Text fontSize={'1x1'}>20 August 2022</Text>
                   <Text fontSize={'1x1'}>
@@ -41,7 +41,7 @@ export default function News() {
             <VStack rounded={'20'} bg='#011c3f' h={'100%'}>
             <a href="https://blog.cfund.me/memanfaatkan-bear-market-saat-ini-untuk-menjadi-investor-yang-lebih-baik-di-bull-run-berikutnya/" >
             <Image style={{ borderTopRightRadius: 20, borderTopLeftRadius: 20}} src={Satu}/>
-              <Box w='15rem' p={'7%'}>
+              <Box w='100%' p={'7%'}>
                 <Text as={'b'} fontSize={'1x1'}>Memanfaatkan Bear Market Saat ini Untuk Menjadi INVESTOR Yang Lebih Baik di Bull Run Berikutnya</Text>
                 <Text fontSize={'1x1'}>11 August 2022</Text>
                 <Text fontSize={'1x1'}>
@@ -55,7 +55,7 @@ export default function News() {
             <VStack rounded={'20'} bg='#011c3f' h={'100%'}>
             <a href="https://blog.cfund.me/a-complete-guide-on-how-to-do-research-in-crypto/" >
             <Image style={{ borderTopRightRadius: 20, borderTopLeftRadius: 20}} src={Satu}/>
-              <Box w='15rem' p={'7%'}>
+              <Box w='100%' p={'7%'}>
                 <Text as={'b'} fontSize={'1x1'}>A Complete Guide On How To Do Research in Crypto!</Text>
                 <Text fontSize={'1x1'}>8 August 2022</Text>
                 <Text fontSize={'1x1'}>
@@ -69,7 +69,7 @@ export default function News() {
             <VStack rounded={'20'} bg='#011c3f' h={'100%'}>
             <a href="https://blog.cfund.me/bagaimana-asia-tenggara-merangkul-era-web3/" >
             <Image style={{ borderTopRightRadius: 20, borderTopLeftRadius: 20}} src={Satu}/>
-            <Box w='15rem' p={'7%'}>
+            <Box w='100%' p={'7%'}>
                 <Text as={'b'} fontSize={'1x1'}>Bagaimana Asia Tenggara merangkul era Web3?</Text>
                 <Text fontSize={'1x1'}>6 August 2022</Text>
                 <Text fontSize={'1x1'}>
@@ -81,7 +81,7 @@ export default function News() {
             </Col>
         </Row>
 
-      <Box py={1}>
+      <Box py={1} pb={'10%'}>
             <div style={{ textAlign: 'center'}}>
                 <a href='https://blog.cfund.me/' >
                 <Button color={'white'} backgroundColor={'#ffa520'} as={'b'} fontSize={'1xl'}>View More</Button>

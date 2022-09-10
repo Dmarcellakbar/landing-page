@@ -10,7 +10,7 @@ export default function Terms() {
   const isDesktopOrLaptop = useMediaQuery({
     query: '(min-width: 800px)'
   })
-  const isMobile = useMediaQuery({ query: '(max-width: 414px)' })
+  const isMobile = useMediaQuery({ query: '(max-width: 800px)' })
   
     const styling = {
         backgroundImage: `url('${bg.src}')`,
