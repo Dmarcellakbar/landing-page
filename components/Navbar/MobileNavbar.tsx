@@ -81,13 +81,13 @@ export default function MobileNavbar() {
   return (
     <Layout>
         <Header style={{ position: 'fixed', zIndex: 1, width: '100%'}}>
-            <Row justify="center" style={{ border: '1', borderColor: 'white' }}>
+            <Row justify="center">
                 <Col span={6}>
                 <Box style={{ float: 'left', alignItems: 'center', paddingTop: '5%' }}>
                     <Image className='responsive' src={Logo}/>
                 </Box>
                 </Col>
-                <Col span={18}>
+                <Col span={16}>
                     <Divider orientation='right'>
                         <Dropdown overlay={menu} placement="bottomRight">
                             <Typography.Link>

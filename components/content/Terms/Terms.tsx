@@ -14,26 +14,7 @@ export default function Terms() {
     }
   return (
     <section className="section position-relative" style={styling}>
-      <Box py={6}>
-          <Flex
-            align={'center'}
-            _before={{
-              content: '""',
-              borderBottom: '1px solid',
-              borderColor: useColorModeValue('gray.200', 'gray.700'),
-              flexGrow: 1,
-              mr: 0,
-            }}
-            _after={{
-              content: '""',
-              borderBottom: '1px solid',
-              borderColor: useColorModeValue('gray.200', 'gray.700'),
-              flexGrow: 1,
-              ml: 0,
-            }}>
-          </Flex>
-        </Box>
-      <Container style={{ padding: '8rem 0px' }}>
+      <Container >
         <Row>
           <Col lg={6}>
             <VStack marginTop={'15%'}>

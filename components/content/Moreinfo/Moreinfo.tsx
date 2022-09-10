@@ -8,23 +8,6 @@ export default function Moreinfo() {
   return (
     <section className="site-layout-background2">
       <Box py={6}>
-          <Flex
-            align={'center'}
-            _before={{
-              content: '""',
-              borderBottom: '1px solid',
-              borderColor: useColorModeValue('gray.200', 'gray.700'),
-              flexGrow: 1,
-              mr: 0,
-            }}
-            _after={{
-              content: '""',
-              borderBottom: '1px solid',
-              borderColor: useColorModeValue('gray.200', 'gray.700'),
-              flexGrow: 1,
-              ml: 0,
-            }}>
-          </Flex>
             <div style={{ textAlign: 'center', marginTop: '10%'}}>
                 <Text as={'b'} fontSize='4xl' color={'white'}>
                     Need more information?

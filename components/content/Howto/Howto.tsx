@@ -13,29 +13,12 @@ export default function Howto() {
         width:"100%",
         height:"100%",
         backgroundSize: 'cover',
-        padding: '8rem 0 8rem 0px'
     }
 
   return (
-    <section className="site-layout-background2" style={styling}>
+    <section style={styling}>
+      <Container style={{ maxWidth: '80rem'}}>
       <Box py={6}>
-          <Flex
-            align={'center'}
-            _before={{
-              content: '""',
-              borderBottom: '1px solid',
-              borderColor: useColorModeValue('gray.200', 'gray.700'),
-              flexGrow: 1,
-              mr: 0,
-            }}
-            _after={{
-              content: '""',
-              borderBottom: '1px solid',
-              borderColor: useColorModeValue('gray.200', 'gray.700'),
-              flexGrow: 1,
-              ml: 0,
-            }}>
-          </Flex>
             <div style={{ textAlign: 'center', marginTop: '10%'}}>
                 <Text as={'b'} fontSize='4xl' color={'white'}>
                     Get into Digital Asset Market With Us!
@@ -46,10 +29,8 @@ export default function Howto() {
                 </Text>
             </div>
         </Box>
-
-      <Container style={{ padding: '2rem 0px 0px', width: 'stretch', maxWidth: '80rem', height: 'hug content' }}>
         <Row >
-        <Col lg={4}>
+        <Col lg={4} >
             <Box textAlign={'center'} backgroundColor={'#01264C'} rounded={'16px'} p={'32px'} w={'100%'} h={'100%'}>
                 <Image src={Identity} style={{ width: '15rem', maxWidth: '100%', height: 'auto' }}/>
                 <br />
