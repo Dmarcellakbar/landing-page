@@ -10,15 +10,9 @@ import { Box, Text, VStack, Button } from '@chakra-ui/react';
 import chartNew from '../../../assets/images/chart-new.png'
 
 export default function Performance() {
-    const styling = {
-        // backgroundImage: `url('${bg.src}')`,
-        // width:"100%",
-        // height:"100%",
-        // backgroundSize: 'cover',
-        padding: '8rem 0px'
-    }
+
     return (
-    <section className="site-layout-background2" style={styling}>
+    <section className="site-layout-background2" style={{ paddingTop: '8rem', paddingBottom:'8rem' }}>
       <Container>
         <Row className="align-items-center">
           <Col lg={6}>
@@ -44,7 +38,7 @@ export default function Performance() {
                 CFund manages your capital with rigorous position sizing, advanced trading
                 strategy, and a conservative stop loss.
                 </Text>
-                <a href='/download' target='_blank'><Button mr={'10'} color={'white'} fontSize='2xl' backgroundColor={'#ffa520'} paddingInline={'6'}>See Performance Details</Button></a>
+                <a href='/download' target='_blank'><Button color={'white'} fontSize='2xl' backgroundColor={'#ffa520'}>See Performance Details</Button></a>
             </Box>
           </Col>
         </Row>
