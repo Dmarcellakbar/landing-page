@@ -95,7 +95,7 @@ export default function QuestionList2(props: QuestionListProps) {
                                                     setActiveKey('')
                                                 }
                                             }}
-                                            style={{ cursor: 'pointer', fontSize: '1rem', fontStyle: 'bold', backgroundColor: '#011535', color: 'white', paddingBottom: '5%'}}
+                                            style={{ cursor: 'pointer', fontSize: '1rem', fontStyle: 'bold', backgroundColor: '#01264C', color: 'white', paddingBottom: '5%', borderColor: 'transparent', boxShadow: 'revert-layer'}}
                                         >
                                             {faq.question}
 
@@ -106,7 +106,7 @@ export default function QuestionList2(props: QuestionListProps) {
                                             }
                                         </Accordion>
                                         <Accordion.Collapse eventKey={faq.id}>
-                                            <Card.Body style={{ backgroundColor: '#011535', color: 'white' }}>{faq.answer}</Card.Body>
+                                            <Card.Body style={{ backgroundColor: '#01264C', color: 'white' }}>{faq.answer}</Card.Body>
                                         </Accordion.Collapse>
                                     </Card>
                                 )

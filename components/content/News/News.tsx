@@ -22,7 +22,7 @@ export default function News() {
         </Box>
         <Row style={{ marginRight: '7%', paddingLeft: '5%', paddingRight: '1%' }}>
           <Col lg={3} style={{ paddingBottom: '10%', paddingLeft: '5%' }}>
-            <VStack rounded={'20'} bg='#011c3f' h={'100%'}>
+            <VStack rounded={'20'} bg='#01264c' h={'100%'}>
               {/* <a href={href}> */}
               <a href="https://blog.cfund.me/apa-itu-decentralized-science-desci/" >
               <Image style={{ borderTopRightRadius: 20, borderTopLeftRadius: 20}} src={Satu}/>
@@ -39,7 +39,7 @@ export default function News() {
             </VStack>
             </Col>
             <Col lg={3} style={{ paddingBottom: '10%', paddingLeft: '5%' }}>
-            <VStack rounded={'20'} bg='#011c3f' h={'100%'}>
+            <VStack rounded={'20'} bg='#01264c' h={'100%'}>
             <a href="https://blog.cfund.me/memanfaatkan-bear-market-saat-ini-untuk-menjadi-investor-yang-lebih-baik-di-bull-run-berikutnya/" >
             <Image style={{ borderTopRightRadius: 20, borderTopLeftRadius: 20}} src={Satu}/>
               <Box w='100%' p={'7%'}>
@@ -54,7 +54,7 @@ export default function News() {
             </VStack>
             </Col>
             <Col lg={3} style={{ paddingBottom: '10%', paddingLeft: '5%' }}>
-            <VStack rounded={'20'} bg='#011c3f' h={'100%'}>
+            <VStack rounded={'20'} bg='#01264c' h={'100%'}>
             <a href="https://blog.cfund.me/a-complete-guide-on-how-to-do-research-in-crypto/" >
             <Image style={{ borderTopRightRadius: 20, borderTopLeftRadius: 20}} src={Satu}/>
               <Box w='100%' p={'7%'}>
@@ -69,7 +69,7 @@ export default function News() {
             </VStack>
             </Col>
             <Col lg={3} style={{ paddingBottom: '10%', paddingLeft: '5%' }}>
-            <VStack rounded={'20'} bg='#011c3f' h={'100%'}>
+            <VStack rounded={'20'} bg='#01264c' h={'100%'}>
             <a href="https://blog.cfund.me/bagaimana-asia-tenggara-merangkul-era-web3/" >
             <Image style={{ borderTopRightRadius: 20, borderTopLeftRadius: 20}} src={Satu}/>
             <Box w='100%' p={'7%'}>

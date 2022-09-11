@@ -12,7 +12,7 @@ import chartNew from '../../../assets/images/chart-new.png'
 export default function Performance() {
 
     return (
-    <section className="site-layout-background2" style={{ paddingTop: '8rem', paddingBottom:'8rem' }}>
+    <section className="site-layout-background3" style={{ paddingTop: '8rem', paddingBottom:'8rem' }}>
       <Container>
         <Row className="align-items-center">
           <Col lg={6}>

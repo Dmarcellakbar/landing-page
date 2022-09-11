@@ -14,6 +14,12 @@
 }
 
 .site-layout-background2 {
+  background: #011c3f;
+  color: #fff;
+  font-family: 'Poppins';
+}
+
+.site-layout-background3 {
   background: #011535;
   color: #fff;
   font-family: 'Poppins';
@@ -36,4 +42,26 @@
   width: 100%;
   height: auto;
   font-family: 'Poppins';
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.faq-row {
+  border: #d1d1d1 1px solid;
+  border-radius: 5px;
+  padding: 2rem;
+  margin: 2rem;
+}
+
+.row-title {
+  color: #707070 !important;
+}
+
+.faq-title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900 !important;
+  color: #fff !important;
 }
