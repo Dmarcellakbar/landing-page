@@ -1,8 +1,9 @@
 import React, {useState} from 'react';
 import { Container, Row, Col } from 'reactstrap';
-import { Box, Flex, useColorModeValue, Text, HStack } from '@chakra-ui/react';
+import { Box, Flex, useColorModeValue, Text, HStack, VStack } from '@chakra-ui/react';
 import QuestionList from './QuestionList'
 import QuestionList2 from './QuestionList2'
+import { Card } from 'antd';
 
 export default function Faq() {
     const [searchQuery, setSearchQuery] = useState("");
@@ -10,7 +11,7 @@ export default function Faq() {
     <section className="site-layout-background2">
       <Box py={6}>
             <div style={{ textAlign: 'center', marginTop: '10%'}}>
-                <Text as={'b'} fontSize='2.88rem' color={'white'} fontWeight={'bold'}>
+                <Text as={'b'} fontSize='4xl' color={'white'}>
                     FAQ
                 </Text>
             </div>
@@ -20,9 +21,14 @@ export default function Faq() {
         <HStack>
         <Row>
             <Col lg={6}>
-                <QuestionList
-                    query={searchQuery}
-                />
+                <VStack>
+                    <Card>
+
+                        <Text>
+
+                        </Text>
+                    </Card>
+                </VStack>
             </Col>
             <Col lg={6}>
                 <QuestionList2

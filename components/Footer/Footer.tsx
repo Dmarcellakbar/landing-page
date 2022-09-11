@@ -60,6 +60,8 @@ import {
     return (
       <section className="section position-relative">
       <Box
+        pt={'10%'}
+        pb={'10%'}
         bg={useColorModeValue('#011535', '#011535')}
         color={useColorModeValue('gray.100', 'gray.100')}>
         <Container as={Stack} maxW={'6xl'} py={10}>
@@ -74,34 +76,40 @@ import {
                 </Box>
             </Stack>
             <Stack align={'flex-start'}>
-              <ListHeader>Sitemap</ListHeader>
+              <div style={{ fontWeight: 'bold', fontSize: '24px' }}>
+                <Text>Sitemap</Text>
+              </div>
               <Link to="section1" smooth={true} style={{ backgroundColor:'transparent', marginRight: '5%' }}>
-                <Text as={'b'} style={{ textAlign:'center', color: 'white' }}>Home</Text>
+                <Text fontSize={'16px'} style={{ textAlign:'center', color: 'white' }}>Home</Text>
               </Link>
               <Link to="section2" smooth={true} style={{ backgroundColor:'transparent', marginRight: '5%' }}>
-                <Text as={'b'} style={{ textAlign:'center', color: 'white' }}>Performance</Text>
+                <Text fontSize={'16px'}  style={{ textAlign:'center', color: 'white' }}>Performance</Text>
               </Link>
               <Link to="section3" smooth={true} style={{ backgroundColor:'transparent', marginRight: '5%' }}>
-                <Text as={'b'} style={{ textAlign:'center', color: 'white' }}>How to</Text>
+                <Text fontSize={'16px'}  style={{ textAlign:'center', color: 'white' }}>How to</Text>
               </Link>
               <Link to="section4" smooth={true} style={{ backgroundColor:'transparent', marginRight: '5%' }}>
-                <Text as={'b'} style={{ textAlign:'center', color: 'white' }}>Terms</Text>
+                <Text  fontSize={'16px'} style={{ textAlign:'center', color: 'white' }}>Terms</Text>
               </Link>
               <Link to="section5" smooth={true} style={{ backgroundColor:'transparent', marginRight: '5%' }}>
-                <Text as={'b'} style={{ textAlign:'center', color: 'white' }}>News</Text>
+                <Text fontSize={'16px'} style={{ textAlign:'center', color: 'white' }}>News</Text>
               </Link>
               <Link to="section6" smooth={true} style={{ backgroundColor:'transparent', marginRight: '5%'}}>
-                <Text as={'b'} style={{ textAlign:'center', color: 'white' }}>FAQ</Text>
+                <Text fontSize={'16px'} style={{ textAlign:'center', color: 'white' }}>FAQ</Text>
               </Link>
             </Stack>
             <Stack align={'flex-start'}>
-              <ListHeader>Disclaimer</ListHeader>
+            <div style={{ fontWeight: 'bold', fontSize: '24px' }}>
+                <Text>Disclaimer</Text>
+              </div>
               <a href={'https://info.cfund.me/terms-and-conditions/'} >Terms & Conditions</a>
               <a href={'https://info.cfund.me/terms-and-conditions/'} >Privacy Policy</a>
               <a href={'https://info.cfund.me/how-to-referrals/'} >How to Referrals</a>
             </Stack>
             <Stack align={'flex-start'}>
-              <ListHeader>Follow Us</ListHeader>
+            <div style={{ fontWeight: 'bold', fontSize: '24px' }}>
+                <Text>Social Media</Text>
+              </div>
               <Stack direction={'row'} spacing={6}>
                 {/* <SocialButton label={'Twitter'} href={'#'}>
                     <FaTwitter />
@@ -140,7 +148,7 @@ import {
             src={Logo}
             />
           </Flex>
-          <Text pt={6} fontSize={'sm'} textAlign={'center'}>
+          <Text pt={6} fontSize={'sm'} textAlign={'center'} color={'grey'}>
             © 2022 PT. Cuma Untuk Anak Negeri. All rights reserved
           </Text>
         </Box>

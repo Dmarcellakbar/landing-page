@@ -30,11 +30,12 @@ export default function Terms() {
             </Col>
           }
           <Col lg={6}>
-            <VStack marginTop={'15%'}>
-              <Text as={'b'} fontSize='5xl' color={'white'}>
+            <VStack marginTop={'20%'}>
+              <Text as={'b'} fontSize='2.88rem' lineHeight={'10'} color={'white'}>
                 Fee Structure & Terms
                 </Text>
-              <Text marginTop={10} marginBottom={10} fontSize='2xl' color={'white'}>
+                <br />
+              <Text marginTop={10} marginBottom={10} fontSize='1x1' color={'white'}>
                 The fee structure for CFUND portfolio management services consists of 2%
                 management fee, which is deducted from the initial investment value, and 20% performance fee deducted from the profit made during the fund
                 management process. In addition, CFund improses a locking period for the investor's fund, starting from quarterly basis.

@@ -67,7 +67,7 @@ const menu = (
             key: '7',
             label: (
             <a href='/download' target='_blank'>
-                <Box textAlign={'center'} as={'b'} fontSize={'2x1'} color={'white'} bg={'#FFA520'} p={2} rounded={'10'}>
+                <Box padding={'24px'} textAlign={'center'} as={'b'} fontSize={'2x1'} color={'white'} bg={'#FFA520'} p={2} rounded={'10'}>
                   Login
                 </Box>
             </a>

@@ -29,8 +29,9 @@ export default function Performance() {
 
           <Col lg={6}>
             <Box>
-              <Text as={'b'} fontSize='5xl' color={'white'}>Our Performance</Text>
-              <Text marginTop={10} marginBottom={10} fontSize='2xl' color={'white'}>
+              <br />
+              <Text as={'b'} fontSize='2.88rem' color={'white'} lineHeight={'10'}>Our Performance</Text>
+              <Text marginTop={10} marginBottom={10} fontSize='16px' color={'white'}>
                 Our advanced risk management strategy allowed us to be consistenly
                 profitable during both uptrend and downtrend.
                 Digital assets such can provide highly lucrative return, yet they are much
@@ -38,7 +39,7 @@ export default function Performance() {
                 CFund manages your capital with rigorous position sizing, advanced trading
                 strategy, and a conservative stop loss.
                 </Text>
-                <a href='/download' target='_blank'><Button color={'white'} fontSize='2xl' backgroundColor={'#ffa520'}>See Performance Details</Button></a>
+                <a href='/download' target='_blank'><Button color={'white'} fontSize='16px' backgroundColor={'#ffa520'} p={'24px'}>See Performance Details</Button></a>
             </Box>
           </Col>
         </Row>

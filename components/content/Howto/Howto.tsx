@@ -20,22 +20,28 @@ export default function Howto() {
       <Container style={{ maxWidth: '80rem', paddingBottom: '10%'}}>
       <Box py={6}>
             <div style={{ textAlign: 'center', marginTop: '10%'}}>
-                <Text as={'b'} fontSize='4xl' color={'white'}>
+                <div style={{ lineHeight: '1.2' }}>
+                <Text as={'b'} fontSize='2.88rem' color={'white'} fontWeight={'extrabold'} >
                     Get into Digital Asset Market With Us!
                 </Text>
+                </div>
                 <br />
-                <Text as={'b'} fontSize='3xl' color={'white'} mb={'20rem'}>
+                <Text as={'b'} fontSize='32px' color={'white'} mb={'20rem'}>
                     Onboarding process
                 </Text>
+                
             </div>
         </Box>
+        <br />
+        <br />
         <Row >
         <Col lg={4} style={{ paddingBottom: '10%' }}>
             <Box textAlign={'center'} backgroundColor={'#01264C'} rounded={'16px'} p={'32px'} w={'100%'} h={'100%'}>
                 <Image src={Identity} style={{ width: '15rem', maxWidth: '100%', height: 'auto' }}/>
                 <br />
-                <Text textAlign={'center'} marginTop={10} as={'b'} fontSize='2xl' color={'white'}>REGISTRATION AND IDENTIFICATION</Text>
-                    <Text textAlign={'center'} marginTop={10} marginBottom={50} fontSize='1xl' color={'white'}>
+                <br />
+                <Text textAlign={'center'}  as={'b'} fontSize='20px' color={'white'}>Registration and Identification</Text>
+                    <Text textAlign={'center'} marginTop={10} marginBottom={50} fontSize='16px' color={'white'}>
                         Prospective customer can contact us to have a
                         consultation whether investing in digital asset with
                         us aligns with their risk appetite, financial profile,
@@ -50,8 +56,9 @@ export default function Howto() {
             <Box textAlign={'center'} backgroundColor={'#01264C'} rounded={'16px'} p={'32px'} w={'auto'} h={'100%'}>
             <Image src={Agreement} style={{ width: '15rem', maxWidth: '100%', height: 'auto' }}/>
             <br />
-              <Text textAlign={'center'} marginTop={10} as={'b'} fontSize='2xl' color={'white'}>PRODUCT SELECTION AND AGREEMENT</Text>
-              <Text textAlign={'center'} marginTop={10} marginBottom={50} fontSize='1xl' color={'white'}>
+            <br />
+              <Text textAlign={'center'} marginTop={10} as={'b'} fontSize='20px' color={'white'}>Product Selection and Agreement</Text>
+              <Text textAlign={'center'} marginTop={10} marginBottom={50} fontSize='16px' color={'white'}>
                 The next step is formulate a contractual
                 agreement between CFund and the investor.
                 The investor may select the desired investment
@@ -67,8 +74,9 @@ export default function Howto() {
             <Box textAlign={'center'} backgroundColor={'#01264C'} rounded={'16px'} p={'32px'} w={'auto'} h={'100%'}>
             <Image src={Aum} style={{ width: '15rem', maxWidth: '100%', height: 'auto' }}/>
             <br />
-              <Text textAlign={'center'} marginTop={10} as={'b'} fontSize='2xl' color={'white'}>ASSETS UNDER MANAGEMENT</Text>
-              <Text textAlign={'center'} marginTop={10} marginBottom={50} fontSize='1xl' color={'white'}>
+            <br />
+              <Text textAlign={'center'} marginTop={10} as={'b'} fontSize='20px' color={'white'}>Assets Under Management</Text>
+              <Text textAlign={'center'} marginTop={10} marginBottom={50} fontSize='16px' color={'white'}>
                 Once all the paperwork is signed, the investor can deposit their investment. Deposits can be made in
                 fiat or cyptocurrencies. Hence, the fund management starts.
                 The investor will now recieve access to a periodic

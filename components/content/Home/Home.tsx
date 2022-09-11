@@ -13,7 +13,7 @@ export default function Home() {
     const isDesktopOrLaptop = useMediaQuery({
         query: '(min-width: 800px)'
       })
-      const isMobile = useMediaQuery({ query: '(max-width: 414px)' })
+      const isMobile = useMediaQuery({ query: '(max-width: 800px)' })
       
     const styling = {
         backgroundImage: `url('${bg.src}')`,
@@ -28,11 +28,11 @@ export default function Home() {
             <Row className="align-items-center">
             <Col lg={6}>
                 <div>
-                <Text marginTop={10} as={'b'} fontSize='3rem' pt={'90px'} pb={'2rem'} color={'#01E8AA'}>The Best Management Firm Any Crypto Investor Can Dream of</Text>
+                    <Text marginTop={10} style={{ lineHeight: '1' }} as={'b'} fontSize='3.1rem' pt={'90px'} pb={'3rem'} fontWeight={'bold'} color={'#01E8AA'}>The Best Management Firm Any Crypto Investor Can Dream of</Text>
                 <Text marginTop={10} marginBottom={10} fontSize='1xl' color={'white'} pb={'2rem'}>
                     Our costumized strategy makes crypto investing safer, easier, and more effective for you
                     </Text>
-                    <HStack spacing='10px' pt={'2rem'} pb={'90px'}>
+                    <HStack spacing='10px' pb={'90px'}>
                         <Box>
                         <a href="/download" target='_blank'>
                             <Image width={'150%'} height={'50%'} src={AppStoreBadge}/>

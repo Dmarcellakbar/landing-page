@@ -95,7 +95,7 @@ export default function QuestionList(props: QuestionListProps) {
                                                     setActiveKey('')
                                                 }
                                             }}
-                                            style={{ cursor: 'pointer', fontSize: '1rem', fontStyle: 'bold', fontWeight: '700', backgroundColor: '#011535', color: 'white', paddingBottom: '3%'}}
+                                            style={{ marginTop: '10', cursor: 'pointer', fontSize: '1rem', fontStyle: 'bold',  backgroundColor: '#011535', color: 'white', paddingBottom: '5%', height: '100%'}}
                                         >
                                             {faq.question}
 

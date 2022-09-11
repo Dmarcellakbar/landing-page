@@ -44,7 +44,7 @@ export default function Home({children}: any) {
                 <Text as={'b'} style={{ textAlign:'center', color: 'white' }}>FAQ</Text>
               </Link>
               <a href='/download' target='_blank'>
-              <Box textAlign={'center'} mr={10} as={'b'} fontSize={'2x1'} color={'white'} bg={'#FFA520'} p={2} rounded={'10'}>
+              <Box textAlign={'center'} padding={'24px'} mr={10} as={'b'} fontSize={'2x1'} color={'white'} bg={'#FFA520'} p={2} rounded={'10'}>
                 Login
               </Box>
               </a>
