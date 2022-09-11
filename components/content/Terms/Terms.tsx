@@ -20,7 +20,7 @@ export default function Terms() {
     }
   return (
     <section className="section position-relative" style={styling}>
-      <Container style={{ paddingBottom: '10%', paddingTop: '10%' }}>
+      <Container style={{ paddingBottom: '20%', paddingTop: '20%' }}>
         <Row>
         {isMobile &&
             <Col lg={6}>

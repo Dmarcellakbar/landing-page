@@ -87,6 +87,7 @@ export default function QuestionList(props: QuestionListProps) {
                                 return (
                                     <Card key={faq.id}>
                                         <Accordion 
+                                    
                                             as={Card.Header} 
                                             eventKey={faq.id} onClick={() => {
                                                 if (activeKey !== faq.id) {
