@@ -65,3 +65,13 @@
   font-weight: 900 !important;
   color: #fff !important;
 }
+
+#button-test {
+  
+  color: white;
+}
+
+#button-test:hover {
+
+  color: white;
+}

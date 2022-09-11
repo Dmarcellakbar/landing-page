@@ -24,7 +24,7 @@ export default function News() {
           <Col lg={3} style={{ paddingBottom: '10%', paddingLeft: '5%' }}>
             <VStack rounded={'20'} bg='#01264c' h={'100%'}>
               {/* <a href={href}> */}
-              <a href="https://blog.cfund.me/apa-itu-decentralized-science-desci/" >
+              <a href="https://blog.cfund.me/apa-itu-decentralized-science-desci/" id="button-test">
               <Image style={{ borderTopRightRadius: 20, borderTopLeftRadius: 20}} src={Satu}/>
                 <Box w='100%' p={'7%'} >
                   <Text as={'b'} fontSize={'16px'} fontWeight={'bold'}>Apa itu decentralized science (DeSci)?</Text>
@@ -40,7 +40,7 @@ export default function News() {
             </Col>
             <Col lg={3} style={{ paddingBottom: '10%', paddingLeft: '5%' }}>
             <VStack rounded={'20'} bg='#01264c' h={'100%'}>
-            <a href="https://blog.cfund.me/memanfaatkan-bear-market-saat-ini-untuk-menjadi-investor-yang-lebih-baik-di-bull-run-berikutnya/" >
+            <a href="https://blog.cfund.me/memanfaatkan-bear-market-saat-ini-untuk-menjadi-investor-yang-lebih-baik-di-bull-run-berikutnya/" id="button-test">
             <Image style={{ borderTopRightRadius: 20, borderTopLeftRadius: 20}} src={Satu}/>
               <Box w='100%' p={'7%'}>
                 <Text as={'b'} fontSize={'16px'} fontWeight={'bold'}>Memanfaatkan Bear Market Saat ini Untuk Menjadi INVESTOR Yang Lebih Baik di Bull Run Berikutnya</Text>
@@ -55,7 +55,7 @@ export default function News() {
             </Col>
             <Col lg={3} style={{ paddingBottom: '10%', paddingLeft: '5%' }}>
             <VStack rounded={'20'} bg='#01264c' h={'100%'}>
-            <a href="https://blog.cfund.me/a-complete-guide-on-how-to-do-research-in-crypto/" >
+            <a href="https://blog.cfund.me/a-complete-guide-on-how-to-do-research-in-crypto/" id="button-test">
             <Image style={{ borderTopRightRadius: 20, borderTopLeftRadius: 20}} src={Satu}/>
               <Box w='100%' p={'7%'}>
                 <Text as={'b'} fontSize={'16px'} fontWeight={'bold'}>A Complete Guide On How To Do Research in Crypto!</Text>
@@ -70,7 +70,7 @@ export default function News() {
             </Col>
             <Col lg={3} style={{ paddingBottom: '10%', paddingLeft: '5%' }}>
             <VStack rounded={'20'} bg='#01264c' h={'100%'}>
-            <a href="https://blog.cfund.me/bagaimana-asia-tenggara-merangkul-era-web3/" >
+            <a href="https://blog.cfund.me/bagaimana-asia-tenggara-merangkul-era-web3/" id="button-test">
             <Image style={{ borderTopRightRadius: 20, borderTopLeftRadius: 20}} src={Satu}/>
             <Box w='100%' p={'7%'}>
                 <Text as={'b'} fontSize={'16px'} fontWeight={'bold'}>Bagaimana Asia Tenggara merangkul era Web3?</Text>
