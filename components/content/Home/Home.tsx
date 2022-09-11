@@ -23,7 +23,7 @@ export default function Home() {
     }
   return (
     <section className="section position-relative" style={styling}>
-    <VStack paddingTop={'20%'}>
+    <VStack paddingTop={'90px'}>
         <Container style={{ width: '100%', maxWidth: '80rem' }}>
             <Row className="align-items-center">
             <Col lg={6}>
